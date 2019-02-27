@@ -1,0 +1,17 @@
+bloom: understand
+vars:
+  license:
+    - MIT License
+    - Apache License 2.0
+    - GNU GPL V2
+    - GNU GPL V3
+    - BSD
+questions: >-
+  [Proskenujte
+  si](http://www.literacyportal.eu/kazdodenni-zivot.html&contentid=159) text
+  licence *%license%* a s využitím souvisejících textů, které si sami dohledáte,
+  popište, k čemu a proč je tato licence vhodná.
+rubrics:
+  - checklist: ''
+    items:
+      - Úkol je splněn dle zadání.

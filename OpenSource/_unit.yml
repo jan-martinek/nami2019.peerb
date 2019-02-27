@@ -1,0 +1,39 @@
+summary: >-
+  Otevřený kód a svobodný software: místo, kde se potkává technologie a
+  politika.
+tags:
+  - open source
+  - free software
+  - licence
+  - verzování
+goals: >
+  V této lekci se seznámíte s ideovými základy volného sdílení kódu (pod názvy
+  „[svobodný software](https://cs.wikipedia.org/wiki/Svobodný_software)“ a
+  „[open source](https://cs.wikipedia.org/wiki/Otevřený_software)“, odkázané
+  stránky na Wikipedii si prolítněte). 
+
+
+  Pojem *open source* nejspíše znáte v souvislosti s velkými projekty jako jsou
+  Open Office, Gimp či Linux: svět drobných, často webových aplikací a nástrojů
+  je však mnohem pestřejší. I díky tomu, že většina nástrojů má velmi specifické
+  užití, můžete mezi veřejnými projekty najít leccos zajímavého: např.
+  [hry](https://github.com/showcases/web-games),
+  [datasety](https://github.com/showcases/open-data), [veřejně prospěšné
+  aplikace](https://github.com/showcases/social-impact), [textové
+  editory](https://github.com/showcases/text-editors) nebo třeba [seznam dostupných
+  smajlíků](https://github.com/arvida/emoji-cheat-sheet.com). [Zdrojový
+  kód](https://github.com/pocitacovykrouzek/versostroj) poskytují například též
+  autoři [Veršostroje](http://www.versostroj.cz), který vznikl na KISKu.
+
+
+  Mnoho zdrojových kódů je natolik jednoduchých, že si je před koncem semestru
+  budete schopni sami upravit k obrazu svému.
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Svobodný software a verzování kódu
+outline:
+  - reading.md
+  - identifikace-poi.yml
+  - position-paper.yml
+  - licence.yml
+  - osobnosti-floss.yml

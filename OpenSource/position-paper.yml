@@ -1,0 +1,69 @@
+bloom: remember
+vars:
+  article:
+    - >-
+      [Co je to svobodný
+      software?](http://www.gnu.org/philosophy/free-sw.cs.html)
+    - '[The Open Source Definition](https://opensource.org/definition)'
+    - >-
+      [Proprietary Software Is Often
+      Malware](http://www.gnu.org/philosophy/proprietary.html)
+    - >-
+      [Copyleft: Pragmatic
+      Idealism](http://www.gnu.org/philosophy/pragmatic.html)
+    - >-
+      [Why Open Source misses the point of Free
+      Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html)
+    - >-
+      [When Free Software Isn't (Practically)
+      Superior](http://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html)
+    - >-
+      [10 Reasons Open Source Is Good for
+      Business](http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html)
+    - >-
+      [Ladislav Lhotka: Svobodný software a základní otázka
+      programování](http://webserver.ics.muni.cz/bulletin/articles/324.html)
+    - >-
+      [Luděk Matyska: Softwarové
+      patenty](http://webserver.ics.muni.cz/bulletin/articles/331.html)
+    - >-
+      [7 Reasons Not to Use Open Source
+      Software](http://www.cio.com/article/2378859/open-source-tools/7-reasons-not-to-use-open-source-software.html)
+    - >-
+      [What are the risks of using open-source
+      software?](https://powermore.dell.com/technology/risks-using-open-source-software/)
+questions: >
+  Přečtěte si článek **%article%** a zpracujte position paper, který odevzdejte
+  ve formátu [markdown](http://kramdown.gettalong.org/quickref.html). [Position
+  paper](https://en.wikipedia.org/wiki/Position_paper) zpracujte následovně:
+
+
+  - Krátce shrňte obsah článku (alespoň 600 znaků).
+
+  - Popište svůj postoj k textu s důrazem na pro vás kontroverzní, problematické
+  a nebo naopak zajímavé a přínosné pasáže (alespoň 600 znaků).
+
+  - Položte tři *[otevřené
+  otázky](https://cs.wikipedia.org/wiki/Otázka#Otev.C5.99en.C3.A9)*, které jsou
+  buď obráceny k textu (pokud byste uvítali, aby vám někdo jiný část textu
+  vysvětlil) anebo na něj navazují.
+
+
+  Studenti hodnotící váš úkol budou otázky hodnotit a odpovídat na ně &ndash;
+  počítejte s tím, že díky čtení odlišných textů mohou mít různá východiska.
+input: markdown
+rubrics:
+  - checklist: Hodnocení úkolu.
+    items:
+      - Position paper má požadovaný rozsah.
+      - Shrnutí je srozumitelné.
+      - >-
+        Autor popisuje vlastní postoj a předkládá pro její podporu několik
+        věcných argumentů. (Pokud si nemyslíte, že dokážete zhodnotit věcnost
+        argumentů, přečtěte si nějaký doplňkový text.)
+      - >-
+        V úkolu jsou položeny tři otázky, které na text navazují anebo směřují k
+        vyjasnění nejasností v textu.
+  - >-
+    Pokuste se odpovědět (v celkovém rozsahu alespoň 1200 znaků) na otázky,
+    které položil/a autor/ka úkolu na základě textu.

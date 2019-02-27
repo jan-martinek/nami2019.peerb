@@ -1,0 +1,11 @@
+bloom: apply
+questions:
+  - Dohledejte několik webových portálů, které se zabývají svobodným software.
+  - Dohledejte několik webových portálů, které se zabývají open source.
+  - Určete zásadní milníky vývoje myšlenky svobodného softwaru.
+rubrics:
+  - checklist: ''
+    items:
+      - Je vypsáno několik relevantních položek.
+      - Ke každé je uveden krátký a fakticky správný popis.
+
