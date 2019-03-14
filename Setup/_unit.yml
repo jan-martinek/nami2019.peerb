@@ -1,0 +1,23 @@
+title: Publikování na webu a instalace programů
+summary: |
+  Přehled publikačních možností na webu. Instalace a užívání GitKrakenu a Hugo, a vytvoření účtů na Githubu a Netlify.
+goals: |
+  V této lekci mrkneme na publikační možnosti na webu a pak si stáhneme a nastavíme
+  vše, co budeme po zbytek kurzu potřebovat. Pokud narazíme na nějaké problémy,
+  vyřešíme je tak dřív, než dojde na „skutečnou práci“.
+tags:
+  - verzování
+  - aplikace
+  - publikační proces
+  - webové technologie
+  - CMS
+  - static site generator
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+outline:
+  - reading.md
+  - zpusoby-publikovani.yml
+  - hugo.yml
+  - github.yml
+  - commit-push.yml
+  - netlify.yml

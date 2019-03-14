@@ -1,0 +1,33 @@
+bloom: apply
+input: code
+questions: |
+  ### Projekt na Githubu
+
+  V úloze 2 jsme rozběhli náhled Hugem generovaného webu. Nyní tento projekt přesuneme
+  do repozitáře a nahodíme na Github. V další (poslední) úloze pak celou věc zakončíme
+  publikací webu na platformě Netlify.
+
+  ### Jak na to?
+
+  1. Založte nový repozitář na Githubu pojmenovaný `muj-webovy-projekt` (nechte jej automaticky vytvořit se souborem README) a naklonujte jej pomocí GitKrakenu do svého počítače (opět do výše užívané složky vedle předchozího repozitáře).
+  
+  2. Do vzniklé složky opět rozzipujte všechna data [z připraveného balíčku `hugo-start`](https://github.com/jan-martinek/hugo-start/releases/tag/0.2). **Pozor**, soubory musí být **přímo** v této složce, nikoli v další vnořené složce — pokud postupujete správně, počítač by se měl zeptat, zda chcete *přepsat* původní soubor `README.md`.
+  
+  3. Vytvořte v GitKrakenu commit, který obsahuje nově přidané soubory a změnu v souboru `README.md`.
+
+  4. Změňte název webu — najdete jej v souboru `config.yaml` na prvním řádku v atributu `title` (využijte pro úpravu editor Sublime Text). Na konkrétním názvu tolik nezáleží — nejde o volbu tématu pro zbytek semestru; nicméně volte nějaký poměrně jedinečný název. Použijte nyní pouze písmena abecedy a mezery, aby nedošlo k žádným komplikacím.
+
+  5. Ověřte pomocí `hugo server`, že se změna projevila v náhledu webu.
+  
+  6. Vytvořte v GitKrakenu commit, který obsahuje změnu názvu webu.
+
+  7. Změny pushněte pomocí GitKrakenu do vzdáleného repozitáře na Githubu.
+
+  Do odpovědi vložte odkaz na vytvořený repozitář na Githubu.
+rubrics:
+  - checklist: ''
+    items:
+      - Repozitář je vytvořený a je odlišný od repozitáře z předchozího úkolu.
+      - Repozitář obsahuje požadované soubory (obsah balíčku hugo-start).
+      - Repozitář obsahuje alespoň dva výše popsané commity vytvořené dle zadání.
+      - Na kořenové úrovni repozitáře je soubor `config.yaml` a na prvním řádku je změněn název webu v atributu `title`.

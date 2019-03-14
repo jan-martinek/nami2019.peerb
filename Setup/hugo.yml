@@ -1,0 +1,68 @@
+bloom: apply
+input: file
+comments: 10
+questions: |
+  ### Hugo
+
+  V tomto kurzu nebudeme řešit, jak přesně funguje generátor statických webů Hugo,
+  ale soustředíme se na praktické aspekty jeho užívání. Proto dostanete
+  kompletní balíček, který obsahuje jednoduchou výchozí verzi zdrojového kódu webu
+  i samotnou aplikaci Hugo.
+
+  > **Pozn.:** Návod platí pro dnes nejrozšířenější systém Windows v 64bitové verzi. Pro minoritní platformy může být postup odlišný. 
+  > 
+  > - **Pokud používáte starší 32bitové Windows**, nahraďte soubor `hugo.exe` jeho [32bitovou verzí](https://github.com/gohugoio/hugo/releases).
+  > - **Pokud používáte platformu macOS**, využijte pro instalaci Hugo balíčkovací manažer [*homebrew*](https://brew.sh/). Potřebný terminálový software *Terminal* najdete ve složce `/Applications/Utilities`. Namísto užití zástupců pak budete potřebovat spustit příkaz `hugo server` pomocí příkazové řádky.
+  > - **Pokud používáte platformu Linux**, dohledejte návod pro svou konkrétní distribuci. Namísto užití zástupců pak budete potřebovat spustit příkaz `hugo server` pomocí příkazové řádky.
+
+  Stáhněte si balíček [hugo-start ve verzi 0.2](https://github.com/jan-martinek/hugo-start/releases/tag/0.2) a rozbalte jej někam ve svém počítači a následně klikněte na zástupce `run hugo server`. 
+  Mělo by se zobrazit okno příkazové řádky s výstupem, které vypadá asi takto:
+
+  
+                         | EN
+      +------------------+----+
+        Pages            | 24
+        Paginator pages  |  0
+        Non-page files   |  0
+        Static files     |  2
+        Processed images |  0
+        Aliases          |  0
+        Sitemaps         |  1
+        Cleaned          |  0
+
+      Total in 14 ms
+      Watching for changes in /Users/janmartinek/Projects/
+        hugo-start/{content,data,layouts,static}
+      Watching for config changes in /Users/janmartinek/
+        Projects/hugo-start/config.yaml
+      Serving pages from memory
+      Running in Fast Render Mode. For full rebuilds 
+        on change: hugo server --disableFastRender
+      Web Server is available at http://localhost:1313/ 
+        (bind address 127.0.0.1)
+      Press Ctrl+C to stop
+  
+
+  **Podstatná informce je u konce:** na adrese `http://localhost:1313/` se nyní nachází
+  náhled vygenerovaného webu (je možné, že se adresa ve vašem případě liší — dejte pozor
+  na konkrétní výstup v okně příkazové řádky). 
+
+  Zadejte tuto adresu do prohlížeče, který běžně používáte a měli byste vidět
+  náhled vygenerované webové stránky.
+
+  > **Pozn.:** Až nebudete náhledový server spuštěný pomocí `hugo server` potřebovat,
+  můžete okno příkazové řádky zavřít.
+  
+  Do přílohy tohoto úkolu vložte **screenshot, v němž je vidět okno prohlížeče s náhledem
+  webové stránky a okno příkazové řádky, kde je vidět spuštěný náhledový server** (mohou se 
+  částečně překrývat). Do komentáře popište, s jakými problémy jste se při instalaci setkali 
+  a jak jste našli řešení.
+rubrics:
+  - checklist: ''
+    items:
+      - >-
+        Screenshot zobrazuje aplikaci pro práci s příkazovou řádkou, v níž došlo
+        ke spuštění generátoru Hugo, a prohlížeč se zobrazeným náhledem.
+      - >-
+        Adresa zobrazená v prohlížeči odpovídá adrese zobrazené ve výstupu
+        příkazové řádky.

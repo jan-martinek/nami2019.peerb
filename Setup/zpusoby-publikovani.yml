@@ -1,0 +1,100 @@
+bloom: understand
+input: markdown
+params:
+  article:
+    - >-
+      [Carson Ward: 6 Reasons to Avoid Building Your Own
+      CMS](http://www.opendesigns.org/6-reasons-to-avoid-building-your-own-cms/)
+    - >-
+      [Jacob O'Gara: Wordpress Vs. Tumblr Vs.
+      Blogger](http://www.digitaltrends.com/social-media/wordpress-vs-tumblr-vs-blogger/)
+    - >-
+      [Vito Botta: Why I switched from Jekyll back to
+      WordPress](https://vitobotta.com/2013/09/03/why-i-switched-from-jekyll-back-to-wordpress/
+      )
+    - >-
+      [David Turnbull: WordPress vs. Jekyll: Why You Might Want to
+      Switch](http://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/)
+    - >-
+      [Andy Leverenz: WordPress vs Tumblr: Comparing Two Of The Most Popular
+      Blogging
+      Platforms](https://www.elegantthemes.com/blog/editorial/wordpress-vs-tumblr)
+    - >-
+      [Marko Saric: Tumblr Vs WordPress Comparison: A Powerful
+      Combination](http://howtomakemyblog.com/tumblr-vs-wordpress/)
+    - >-
+      [Quora: Thinking SEO, is WordPress or Tumblr better for a business persona
+      blog?](https://www.quora.com/Thinking-SEO-is-WordPress-or-Tumblr-better-for-a-business-persona-blog)
+      (přečtěte si všechny odpovědi s alespoň jedním bodem)
+    - >-
+      [Adrianne Jeffries: Posterous is shutting down: here are the best
+      alternatives](http://www.theverge.com/2013/4/30/4281780/posterous-is-shutting-down-tomorrow-here-are-the-best-alternatives)
+    - >-
+      [Mathias Biilmann Christensen: Why Static Website Generators Are The Next
+      Big
+      Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
+    - >-
+      [Sick Of Yahoo? Move Your Tumblr Blog Into
+      WordPress](http://www.makeuseof.com/tag/how-to-move-your-blog-from-tumblr-into-wordpress/)
+questions: >
+  Přečtěte si text *%article%* a shrňte jej. Správně **zařaďte** zmiňované
+  publikační nástroje do výše zmíněné trojice (služby, CMS a generátory
+  statických stránek), **popište rozdíly** a **důvody**, proč jsou dané rozdíly
+  v určitém kontextu podstatné. Při zpracování so pomozte dalšími zdroji, mimo
+  článků zadaných v rámci tohoto úkolu.
+
+
+  Dovedete si (v kontextu vašeho studia či [očekávané] pracovní pozice) představit 
+  využití některého z popisovaných nástrojů? Proč byste se rozhodl/a pro konkrétní řešení?
+
+
+  Kdybyste chtěli získat širší kontext, zde je seznam dalších článků na stejné
+  téma. (Jde o seznam všech článků, které je možné dostat v zadání tohoto
+  úkolu.)
+
+
+  - [Carson Ward: 6 Reasons to Avoid Building Your Own
+  CMS](http://www.opendesigns.org/6-reasons-to-avoid-building-your-own-cms/)
+
+  - [Jacob O'Gara: Wordpress Vs. Tumblr Vs.
+  Blogger](http://www.digitaltrends.com/social-media/wordpress-vs-tumblr-vs-blogger/)
+
+  - [Vito Botta: Why I switched from Jekyll back to
+  WordPress](https://vitobotta.com/2013/09/03/why-i-switched-from-jekyll-back-to-wordpress/
+  )
+
+  - [David Turnbull: WordPress vs. Jekyll: Why You Might Want to
+  Switch](http://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/)
+
+  - [Andy Leverenz: WordPress vs Tumblr: Comparing Two Of The Most Popular
+  Blogging
+  Platforms](https://www.elegantthemes.com/blog/editorial/wordpress-vs-tumblr)
+
+  - [Marko Saric: Tumblr Vs WordPress Comparison: A Powerful
+  Combination](http://howtomakemyblog.com/tumblr-vs-wordpress/)
+
+  - [Quora: Thinking SEO, is WordPress or Tumblr better for a business persona
+  blog?](https://www.quora.com/Thinking-SEO-is-WordPress-or-Tumblr-better-for-a-business-persona-blog)
+
+  - [Adrianne Jeffries: Posterous is shutting down: here are the best
+  alternatives](http://www.theverge.com/2013/4/30/4281780/posterous-is-shutting-down-tomorrow-here-are-the-best-alternatives)  
+
+  - [Sick Of Yahoo? Move Your Tumblr Blog Into
+  WordPress](http://www.makeuseof.com/tag/how-to-move-your-blog-from-tumblr-into-wordpress/)
+
+
+  (Očekávaná délka odpovědi na tento úkol je 1000 znaků.)
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď má požadovaný rozsah.
+      - Shrnutí je srozumitelné.
+      - >-
+        Text korektně pracuje s kategoriemi *webových služeb*, *CMS* a
+        *generátorů statických stránek*.
+      - >-
+        Vysvětlení pracuje s dalšími dohledanými zdroji, které jsou v úkolu
+        zmíněny.
+  - >-
+    Pokud jste měl/a zadaný jiný text, *pečlivě* srovnejte závěry autora úkolu a
+    vaše závěry (alespoň 300 znaků).

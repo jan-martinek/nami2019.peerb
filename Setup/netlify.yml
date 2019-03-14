@@ -1,0 +1,21 @@
+bloom: apply
+input: code
+questions: |
+  ### Publikování webu na Netlify
+
+  Nyní celý proces dotáhneme do konce.
+
+  1. Vytvořte si účet ve službě [Netlify](https://www.netlify.com).
+
+  2. Poté vytvořte nový web na základě gitového repozitáře (tlačítko „New site from Git”). Služba si vyžádá propojení s Githubem a poté vám nabídne vaše repozitáře. Zvolte repozitář z předchozí úlohy, který obsahuje upravený `hugo-start`. Mělo by okamžitě dojít k vytvoření náhledového webu.
+
+  3. V souboru `config.yaml`, v němž jsme upravovali atribut `title`, změňte základní část webové adresy (`baseURL`) nově vytvořeného projektu tak, aby odpovídala adrese vytvořené Netlify (dalo by se říci též, že namísto subdomény `xyz` máte vložit název projektu z Netlify, který má vždy formu „adjektivum-substantivum-hash”, tedy např. „happy-human-e8a149“).
+
+  Na Netlify byste pak měli vidět, že dochází k sestavení nové verze (tzv. „deploy“) webu a na webové adrese z předchozího kroku by měl být vidět váš web s titulkem, který jste nastavili v předchozí úloze.
+
+  Do odpovědi vložte webovou adresu nově publikovaného webu.
+rubrics:
+  - checklist: ''
+    items:
+      - Na odevzdané adrese je vidět web publikovaný z repozitáře užívaného v předchozí úloze (adresu repozitáře na Githubu najdete v předchozí úloze).
+      - V repozitáři je upravená hodnota atributu `baseURL` a odpovídá adrese publikovaného webu.

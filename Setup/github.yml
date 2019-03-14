@@ -1,0 +1,40 @@
+bloom: apply
+input: code
+questions: |
+  ### Github a git
+
+  Nejprve ještě jednou vyjasnění:
+
+  - **git** je nástroj, který nebudeme užívat přímo, ale pomocí jiné aplikace (**GitKraken**). Vytváří tzv. „repozitáře“, které uchovávají historii složky — s uloženými změnami tak můžeme pracovat: např. vrátit se zpět nebo sloučit změny od dvou různých lidí. Historie je uložena ve skryté složce `.git` přímo v dané složce s projektem, nejde o žádnou magii :) Když tuto složku smažete, verze se ztratí.
+  - **GitKraken** je grafický nástroj, který usnadňuje práci s **gitem**.
+  - **GitHub** je webový hosting pro verzování a **git** se dokáže k této službě připojit a odesílat a přijímat změny do a ze vzdálených repozitářů.
+
+  Následující postup je platný pro platformy Windows, macOS a Linux.
+
+
+  ### Krok po kroku
+
+  1. Vytvořte si účet ve službě [Github](http://github.com) a vytvořte zde svůj
+  první repozitář. Při tvorbě si vyberte nějakou licenci a nechte vytvořit soubor
+  `README.md`.
+
+  2. Vytvořte si někde v počítači složku, do které si budete ukládat podklady z
+  kurzu — včetně repozitářů. Můžete ji umístit kamkoli, doporučuji pro snadnější
+  práci vytvořit složku přímo v kořenové složce snadno dostupné uživateli (tedy
+  např. `C:\nami` na Windows nebo `~\nami` na macOS a v Linuxu).
+
+  3. Následně si stáhněte program stáhněte si klient [GitKraken](https://www.gitkraken.com/). Společně s ním se do počítače nainstaluje *git*, který však nebudete používat přímo. Přihlaste se ke Githubu a naklonujte si repozitář (do složky zmíněné v kroku 2). Klonování najdete v menu File (Soubor).
+
+  4. V textovém editoru si otevřete soubor `README.md` a popište v něm, proč jste tento repozitář založili.
+
+  6. Pomocí nástroje GitKrakenu vytvořte commit se změnami v souboru `README.md` (commit stručně popište). Pak pomocí funkce „push“ pošlete změny z *lokálního repozitáře* ve vašem počítači do *repozitáře umístěného v internetu* (tzn. ve službě Github).
+
+  Zkontrolujte na webovém rozhraní služby Github, zda změny dorazily do vašeho repozitáře.
+
+  Do odpovědi vložte adresu vašeho repozitáře na Githubu.
+rubrics:
+  - checklist: ''
+    items:
+      - Repozitář je vytvořený.
+      - 'Repozitář obsahuje soubor README, který obsahuje zadaný obsah.'
+
