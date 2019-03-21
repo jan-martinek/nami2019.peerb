@@ -1,0 +1,37 @@
+bloom: remember
+vars:
+  term:
+    - Internet Protocol
+    - TCP-IP
+    - Domain Name System
+    - IP adresa
+    - DNS server
+    - 'Vint Cerf \#humor'
+questions: >
+  ### Technický základ internetu
+
+
+  Podívejte se na videa nebo si přečtěte články a na základě získaných znalostí
+  definujte vlastními slovy pojem *%term%*. (Znalosti si případně doplňte dalším
+  hledáním na internetu — např. Wikipedia obsahuje poměrně srozumitelné a dobře
+  prolinkované definice všech zmíněných fenoménů.)
+
+
+  - [Code.org (Vint Cerf, Paola Mejia): The Internet: IP Addresses and
+  DNS](https://www.youtube.com/watch?v=5o8CwafCxnU) (video)
+
+  - [Code.org (Vint Cerf, Lynn Root): The Internet: Packets, Routing and
+  Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto) (video)
+
+  - [Pavel Tronner: Zrození
+  internetu](http://www.zive.cz/serial-zrozeni-internetu/sc-345/default.aspx?tags=1)
+  (série článků)
+      - [1. Jak začalo budování sítě sítí](http://www.zive.cz/clanky/zrozeni-internetu-1-jak-zacalo-budovani-site-siti/sc-3-a-167196/default.aspx)
+      - [2. Jak to postavit, aby to fungovalo](http://www.zive.cz/clanky/zrozeni-internetu-2-jak-to-postavit-aby-to-fungovalo/sc-3-a-167294/default.aspx)
+
+  > Pokud vás téma zaujalo, další podrobnosti se dozvíte v kurzu [VIKBA14
+  Digitální kompetence](https://is.muni.cz/predmet/phil/VIKBA14).
+rubrics:
+  - checklist: ''
+    items:
+      - Definice je srozumitelná a věcně správná.

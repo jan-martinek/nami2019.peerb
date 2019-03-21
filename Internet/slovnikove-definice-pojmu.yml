@@ -1,0 +1,28 @@
+bloom: apply
+vars:
+  term:
+    - internet
+    - World Wide Web (popř. WWW)
+questions: >
+  Najděte tři *slovníkové* definice pojmu *%term%* **v českojazyčně psaných
+  zdrojích**. 
+
+
+  1. Definice přepište (s uvedením zdrojů) a 
+
+  2. zkompilujte je do jedné definice, která obsahuje všechny důležité informace
+  z užitých zdrojů.
+
+  3. Do komentáře uveďte a vysvětlete alespoň jeden další důležitý aspekt daného
+  pojmu, který jste ve vybraných definicích nenalezli.
+comments: 3
+rubrics:
+  - checklist: ''
+    items:
+      - >-
+        Výsledná definice je autorská a využívá korektně informace z vybraných
+        zdrojů.
+      - Definice je jasná a konzistentní.
+      - >-
+        Komentář uvádí důležitý aspekt pojmu, který se ve vybraných zdrojích
+        nenachází.

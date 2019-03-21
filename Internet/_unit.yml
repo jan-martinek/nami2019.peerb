@@ -1,0 +1,28 @@
+summary: >-
+  Co je to internet a web? Širší souvislosti technologických inovací spojených
+  se webem jsou ilustrovány diskusí o tzv. síťové neutralitě.
+goals: >
+  Mnoho z nás denně používá internet, ale zároveň nerozumíme tomu, jak pracuje
+  uvnitř. **Cílem této lekce je porozumět fungování internetu**, abychom jej
+  byli schopni efektivně využívat a dále rozvíjet. Prostřednictvím průniku do
+  diskuse o síťové neutralitě také nahlédneme, jaký vliv má konkrétní
+  technologická praxe na společenské jevy.
+tags:
+  - síť
+  - internet
+  - world wide web
+  - síťová neutralita
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: 'Internet, web a síťová neutralita'
+outline:
+  - reading.md
+  - nove-medium.yml
+  - slovnikove-definice-pojmu.yml
+  - urban-dictionary.yml
+  - tech-zaklady.yml
+  - technicky-pojem.yml
+  - kodovani-znaku.yml
+  - sitova-neutralita.yml
+  - sitova-neutralita-position.yml
+  - tema.yml

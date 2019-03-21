@@ -1,0 +1,32 @@
+bloom: apply
+vars:
+  side:
+    - obhajují legislativní ukotvení síťové neutrality v EU
+    - oponují legislativnímu ukotvení síťové neutrality v EU
+questions: >
+  Bez ohledu na váš skutečný názor připravte čtyři z vašeho pohledu
+  nejdůležitější argumenty, které **%side%**. Každý argument stručně vysvětlete
+  (alespoň 250 znaků). V poli pro komentář uveďte u každého argumentu online
+  zdroj, který jej podkládá.
+
+
+  (Jde o techniku převzatou z [akademického
+  debatování](https://en.wikipedia.org/wiki/Parliamentary_debate), která
+  prohlubuje porozumění problému pomocí vhledu do protiargumentů. Dle časových
+  možností se pokusím debatu zahrnout do jednoho z našich živých setkání.)
+prefill: |
+  1.
+  2.
+  3.
+  4.
+comments: 4
+rubrics:
+  - checklist: >-
+      Hodnoťte argumentační férovost a správnost — nikoli to, zda argument
+      konvenuje vašemu názoru.
+    items:
+      - Celkový rozsah odpovídá zadání. (Zdroje nepatří do základního textu.) w2
+      - První argument je argumentačně správně vystavěn a ukotven ve zdroji.
+      - Druhý argument je argumentačně správně vystavěn a ukotven ve zdroji.
+      - Třetí argument je argumentačně správně vystavěn a ukotven ve zdroji.
+      - Čtvrtý argument je argumentačně správně vystavěn a ukotven ve zdroji.

@@ -1,0 +1,13 @@
+bloom: understand
+questions:
+  - Co je to *kódování znaků*? Uveďte několik příkladů.
+  - >-
+    Uveďte název v současnosti nejrozšířenější způsob *kódování znaků* a
+    popište, čím se liší od starších kódování jako bylo ASCII, WIN-1250 nebo
+    ISO-8859-2.
+  - Co je to znaková sada?
+  - 'Vysvětlete, proč existuje více různých *znakových sad*.'
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď je výstižná a správná.

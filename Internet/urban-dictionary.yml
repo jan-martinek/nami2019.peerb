@@ -1,0 +1,11 @@
+bloom: apply
+questions: >
+  Vyhledejte definice stejného pojmu ve slovníku [Urban
+  Dictionary](http://www.urbandictionary.com) a vyberte si tři odlišné definice.
+  Porovnejte každou z nich s vaší definicí pojmu a popište u každé z nich
+  technologické či společenské jevy, které je spojují s vaší definicí.
+rubrics:
+  - checklist: ''
+    items:
+      - Jsou zpracována tři srovnání definic.
+      - Všechna tři srovnání popisují technologický či společenský kontext, který spojuje autorskou definici s vybranými definicemi z Urban Dictionary.

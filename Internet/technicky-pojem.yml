@@ -1,0 +1,17 @@
+bloom: remember
+vars:
+  term:
+    - doména
+    - doména prvního řádu
+    - doména druhého řádu
+    - server
+    - paket
+    - routování
+    - protokol
+questions: >
+  Na základě znalostí získaných ve zdrojích z předchozího úkolu definujte
+  vlastními slovy pojem *%term%*.
+rubrics:
+  - checklist: ''
+    items:
+      - Definice je srozumitelná a věcně správná.

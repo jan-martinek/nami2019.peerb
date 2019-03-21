@@ -1,0 +1,72 @@
+bloom: understand
+vars:
+  article:
+    - >-
+      [Lev Manovich: Media After
+      Software](http://manovich.net/index.php/projects/article-2012)
+    - >-
+      [Lev Manovich: New Media from Borges to
+      HTML](http://faculty.georgetown.edu/irvinem/theory/manovich-new-media-intro.pdf)
+    - >-
+      [Tim Berners-Lee: Information Management: A
+      Proposal](https://www.w3.org/History/1989/proposal.html)
+    - >-
+      [Dave Raggett: Introduction to the World Wide
+      Web](https://www.w3.org/People/Raggett/book4/ch01.html)
+    - >-
+      [Dave Raggett: A history of
+      HTML](https://www.w3.org/People/Raggett/book4/ch02.html)
+    - >-
+      [Justin Peters: An honest thief &ndash; How free-culture pioneer Aaron
+      Swartz fought for the free exchange of information, and
+      lost](http://thelongandshort.org/margins/aaron-swartz-jstor-hack) (zde v
+      návaznosti na minulou lekci)
+questions: >
+  ### Internet: nové médium
+
+
+  Internet se rozvíjí: jeho podoba byla v letech 1986, 1996, 2006 a 2016 výrazně
+  odlišná. Mění se díky dostupným technologiím, společenským proměnám i
+  reflexivnímu hodnocení dosavadního vývoje (vypadal by jinak bez smartphonů s
+  foťáky, bez rozšířenosti v téměř celé populaci nebo v jiných legislativních
+  podmínkách). 
+
+
+  Přečtěte si článek **%article%** a shrňte jeho obsah (hlavní myšlenky,
+  zmiňované milníky atp.) ve 400&ndash;600 znacích.
+
+
+  #### Doplňkové zdroje
+
+
+  Vybrané texty pro tento úkol se věnují jak vzniku webu (první text je **ten**
+  návrh, který popisuje, *„jak by to jakože mohlo vypadat“* &ndash; od
+  nadřízených se dočkal hodnocení *„vague, but exciting“*), tak představují
+  reflexi jeho vývoje a důsledků. (Jde o všechny texty, které je možné v této
+  úloze dostat ke zpracování.)
+
+
+  - [Tim Berners-Lee: Information Management: A
+  Proposal](https://www.w3.org/History/1989/proposal.html)
+
+  - [Dave Raggett: Introduction to the World Wide
+  Web](https://www.w3.org/People/Raggett/book4/ch01.html)
+
+  - [Dave Raggett: A history of
+  HTML](https://www.w3.org/People/Raggett/book4/ch02.html)
+
+  - [Lev Manovich: Media After
+  Software](http://manovich.net/index.php/projects/article-2012)
+
+  - [Lev Manovich: New Media from Borges to
+  HTML](http://faculty.georgetown.edu/irvinem/theory/manovich-new-media-intro.pdf)
+
+  - [Justin Peters: An honest thief &ndash; How free-culture pioneer Aaron
+  Swartz fought for the free exchange of information, and
+  lost](http://thelongandshort.org/margins/aaron-swartz-jstor-hack) &ndash; zde
+  v návaznosti na minulou lekci
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí má dostatečný rozsah.
+      - Shrnutí je srozumitelně napsáno.

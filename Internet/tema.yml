@@ -1,0 +1,50 @@
+bloom: create
+time: 15
+input: markdown
+questions: |
+  Na základě vašich stávajících zájmů si vymyslete téma, které byste chtěli zpracovávat během semestrálního projektu. Popište je níže do vstupního pole.
+
+  > Výsledkem projektu bude webová stránka, která informuje o nějakém fenoménu (osobnost, kulturní fenomén, technologie, historický jev, cokoli…): mělo by jít o téma, o kterém není na českém webu dostatek informací anebo jste schopni poskytnout vlastní zajímavý pohled na něj.
+  >
+  > **Pozn.:** Počítejte prosím s tím, že veškeré výstupy v předmětu budou licencovány pod některou z otevřených licencí (výběr bude na vás).
+  
+  Popis tématu strukturujte následovně:
+    
+  - **název tématu:**  
+    výstižný a unikátní název
+  - **cíl:**  
+    krátký odstavec do 140 znaků, v němž popíšete, čeho byste chtěli dosáhnout
+  - **kontext:**  
+    2–3 odstavce (alespoň 500 znaků), které popisují širší kontext daného fenoménu
+  - **zdroje:**  
+    alespoň tři relevantní zdroje (webové či jiné)
+
+  Sepsaný text následně vložte do svého repozitáře, který jste vytvořili v předchozí lekci: 
+
+  - Název tématu vložte jako název webu (v souboru `config.yaml`), 
+  - text (cíle, kontext a zdroje) vložte do obsahu titulní strany (soubor `content/_index.md`),
+  - vhodně zvolte titulek úvodní strany (parametr `title` ve stejném souboru). 
+  - **Do vstupního pole pak ještě vložte odkaz na publikovaný web (pomocí Netlify).**
+
+  > **Pozn.:** Témata není možné navrhovat společně v již předem dohodnutých skupinách, každý musí odevzdat vlastní téma.
+prefill: |
+  # (Název)
+  
+  **(Cíl)**
+
+  (Kontext)
+
+  (Kontext…)
+
+  (Kontext…)
+
+  (Zdroje)
+
+  (Odkaz na web na Netlify)
+rubrics:
+  - checklist: ""
+    items:
+      - Rozsah jednotlivých částí odpovídá zadání.
+      - Na webu je viditelný správně vložený obsah.
+      - Autor přesvědčivě ukazuje, že téma není v českém kontextu dobře popsáno, popř. na něj může nabídnout zajímavý pohled.
+      - V závěrečné části je odkazováno několik relevantních zdrojů.
