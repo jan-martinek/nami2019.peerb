@@ -1,0 +1,21 @@
+bloom: understand
+time: 30
+params:
+  term:
+    - labeling
+    - navigace
+    - nalezitelnost
+    - 'jediná, krátká definice IA'
+    - reprezentace
+    - dokument
+    - organizování
+    - obsah
+    - kontext
+    - uživatel
+    - metadata
+    - struktura
+questions: Vysvětlete v kontextu informační architektury termín *%term%*.
+rubrics:
+  - checklist: ''
+    items:
+      - Termín je vysvětlen správně.

@@ -1,0 +1,18 @@
+bloom: evaluate
+time: 30
+questions: >
+  Pokuste se vytvořit vlastní definici informační architektury v maximální délce
+  140 znaků. Okomentujte vlastní definici: co se do ní nevešlo? Proč vnímáte
+  jako důležitější právě to, co jste do definice zahrnuli?
+comments: 10
+rubrics:
+  - checklist: ''
+    items:
+      - Definice má požadovaný rozsah.
+      - Definice je vytvořena správně.
+      - >-
+        Komentář obsahuje několik aspektů, které se do základní definice
+        nevešly.
+      - >-
+        Autor/ka přesvědčivě vysvětluje, proč je ve výsledné definici zahrnuto
+        právě to, co vybral/a.

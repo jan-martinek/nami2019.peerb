@@ -1,0 +1,19 @@
+summary: >-
+  V návazné lekci se seznámíme se základy informační architektury a načneme semestrální projekt.
+tags:
+  - Informační architektura
+  - IA
+  - Projekt
+goals: >
+  **Cílem této lekce je posunout se od teoretické znalosti webových technologií
+  k jejich používání při práci s obsahem.**
+time: 2h
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Informační architektura
+outline:
+  - reading.md
+  - ia.yml
+  - ia-pojmy.yml
+  - ia-definice.yml
+  - tym.yml

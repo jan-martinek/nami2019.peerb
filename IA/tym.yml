@@ -1,0 +1,17 @@
+bloom: create
+time: 20
+questions: |
+  **Pozor: Tento úkol bude doplněn ve čtvrtek 27. března o seznam témat, která vzejdou z úkolů vypracovaných
+  v minulém týdnu. Počkejte prosím, jakmile budou témata dostupná, přijde vám ještě e-mailové upozornění.** 
+
+  > V posledním úkol je potřebné vytvořit dvou- až tříčlenné projektové týmy. [Všechna témata jsou k nahlédnutí zde](…) (odkaz bude doplněn). Domluvte se s kolegy na složení týmu (využijte ISový mail, osobní kontakt, [hledací vlákno ve fóru](https://is.muni.cz/auth/discussion/predmetove/phil/jaro2019/VIKBA07/hledani/) či jiný kanál) a zapište svůj tým do předepsaných políček [tabulce](…) (odkaz bude doplněn). 
+  > 
+  > Do vstupního pole níže napište stejnou informaci: jména vašich týmových kolegů a název projektu, který se shoduje s názvem některého z témat z předchozí lekce. 
+  
+  > **Pozn.:** Studenti, kteří nebudou na konci lekce zařazeni do dvou- či tříčlenného týmu, budou do týmů přiřazeni lektorem.
+rubrics:
+  - checklist: ""
+    items: 
+      - Odpověď obsahuje název tématu a 2–3 členy týmu.
+      - Téma projektu je uvedeno v seznamu témat sesbíraných v předchozí lekci.
+      - Tým je zapsaný v odkazované tabulce.
