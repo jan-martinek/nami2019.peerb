@@ -1,0 +1,97 @@
+bloom: understand
+input: markdown
+time: 1h
+params:
+  article:
+    - >-
+      [TECED: IA Evaluation
+      Methodologies](http://teced.com/services/information-architecture-ia/ia-evaluation-methodologies/)
+    - >-
+      [Craig Tomlin: 8 Free Tools for Good Information Architecture and
+      Usability](http://www.usefulusability.com/8-free-tools-for-good-information-architecture-and-usability/)
+    - >-
+      [Usability.gov: Information Architecture
+      Methods](http://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html)
+    - >-
+      [Mickey McManus: What is Information
+      Architecture?](http://maya.com/blog/what-is-information-architecture)
+    - >-
+      [Jason Shen: Reading Notes on How to Make Sense of Any Mess by Abby
+      Covert](http://www.jasonshen.com/2015/reading-notes-make-sense-mess-abby-covert/)
+    - >-
+      [David Travis: Card Games for Information
+      Architects](http://www.userfocus.co.uk/articles/cardgames.html)
+    - >-
+      [Daniel Brown: Eight Principles of Information
+      Architecture](http://www.slideshare.net/brownorama/eight-principles-of-information-architecture)
+questions: >
+  Abyste získali jasnější představu o IA, přečtěte si první dvě kapitoly jedné z
+  nejcitovanějších knih o daném oboru. Najdete je ve [studijních
+  materiálech](https://is.muni.cz/auth/el/1421/jaro2018/VIKBA07/um/Morville-Rosenfeld-3-29.pdf).
+  Text kapitol si doplňte rychlým pročtením alespoň dvou doplňkových textů
+  (doporučuji projít alespoň části prvních tří textů, které se věnují konkrétním
+  metodám a nástrojům, které úvodní kapitoly nezmiňují):
+    
+  - [UX Booth: Complete Beginner’s Guide to Information
+  Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
+
+  - [Cameron Chapman: The Ultimate Guide to Information
+  Architecture](http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/)
+
+  - [Cameron Chapman: Information Architecture 101: Techniques and Best
+  Practices](http://sixrevisions.com/usabilityaccessibility/information-architecture-101-techniques-and-best-practices/)
+
+  - [Makulová Soňa: Informačná architektúra
+  (recenze)](http://ikaros.cz/informacna-architektura)
+
+  - [Wikipedia: Informační
+  architektura](https://cs.wikipedia.org/wiki/Informačn%C3%AD_architektura)
+
+
+  Následně si přečtěte si materiál %article% a shrňte základní informace v něm
+  obsažené v rozsahu 400–600 znaků. 
+  
+
+  Pokud jsou zmiňovány konkrétní pracovní postupy a principy, vyjmenujte je a 
+  popište je vlastními slovy (snažte se pracovat s jednoduchými českými slovy).
+  Tento výčet *nespadá* do výše zadaného rozsahu pro samotné shrnutí.
+
+
+  Položte čtenáři vašeho úkolu dvě *otevřené* otázky, které se týkají toho, co
+  vám v daných textech není jasné. (Pokud je vám všechno jasné, přečtěte si
+  texty pečlivěji.)
+
+
+  ***
+
+
+  V úkolu se můžete setkat s následujícími texty — pokud není srozumitelný
+  zadaný text, nejspíše Vám další texty pomohou získat lepší kontext:
+    
+  - [TECED: IA Evaluation
+  Methodologies](http://teced.com/services/information-architecture-ia/ia-evaluation-methodologies/)
+
+  - [Craig Tomlin: 8 Free Tools for Good Information Architecture and
+  Usability](http://www.usefulusability.com/8-free-tools-for-good-information-architecture-and-usability/)
+
+  - [Usability.gov: Information Architecture
+  Methods](http://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html)
+
+  - [Mickey McManus: What is Information
+  Architecture?](http://maya.com/blog/what-is-information-architecture)
+
+  - [Jason Shen: Reading Notes on How to Make Sense of Any Mess by Abby
+  Covert](http://www.jasonshen.com/2015/reading-notes-make-sense-mess-abby-covert/)
+
+  - [David Travis: Card Games for Information
+  Architects](http://www.userfocus.co.uk/articles/cardgames.html)
+
+  - [Daniel Brown: Eight Principles of Information
+  Architecture](http://www.slideshare.net/brownorama/eight-principles-of-information-architecture)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí má požadovaný rozsah.
+      - Shrnutí je srozumitelné a vysvětluje termíny pomocí běžných slov.
+      - Položené otázky jsou otevřené a jdou nad rámec zadaného textu.
+  - Zodpovězte obě položené otázky.
