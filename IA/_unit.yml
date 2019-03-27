@@ -1,18 +1,16 @@
 summary: >-
-  V návazné lekci se seznámíme se základy informační architektury, prohloubíme
-  znalost práce s CSS a načneme semestrální projekt.
+  V návazné lekci se seznámíme se základy informační architektury a načneme semestrální projekt.
 tags:
   - Informační architektura
   - IA
   - Projekt
-  - Ustavení tématu
 goals: >
   **Cílem této lekce je posunout se od teoretické znalosti webových technologií
   k jejich používání při práci s obsahem.**
 time: 2h
 rubrics:
   - Slovně zhodnoťte případné nedostatky tohoto úkolu.
-title: Publikování na webu v praxi
+title: Informační architektura
 outline:
   - reading.md
   - ia.yml
