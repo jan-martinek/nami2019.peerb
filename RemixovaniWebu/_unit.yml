@@ -1,0 +1,22 @@
+summary: >-
+  Web je otevřený a v souladu s licencemi je možné skládat různé zdroje do
+  jednoho celku.
+goals: >
+  **Cílem této lekce je osvojit si několik základních způsobů, jak skládat data
+  dostupná na webu do celků.** Konkrétně se mrkneme, jak vkládat kousky cizích webů
+  pomocí `iframe` či skriptů na vlastní web. V závěru provedeme první opravdové 
+  „publikační kolečko“, pomocí něhož budeme vkládat nový obsah do týmového repozitáře.
+tags:
+  - Open web
+  - Remix
+  - Iframe
+  - Hugo
+  - Projekt
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Remixování webu
+outline:
+  - reading.md
+  - embedovani.yml
+  - blogpost.yml
+  - projekt.yml

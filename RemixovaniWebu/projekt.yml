@@ -1,0 +1,70 @@
+bloom: create
+time: 3h
+questions: |
+  ### O projektu: začínáme pracovat s větvemi
+
+  Tento úkol zpracovávejte společně, ale na konci si rozdělte role, abyste zvládli tři činnosti: 
+
+  - **sdílení repozitáře**: majitel repozitáře jej nasdílí ostatním,
+  - **pull request**: druhý z členů týmu bude vytvářet „pull request“ a 
+  - **code review**: třetí tento „pull request“ zkontroluje a schválí.
+
+  > **Tip:** Nenechávejte úkol na poslední chvíli a při tvorbě spolupracujte – v průběhu semestru bude potřebné, aby projektu a jeho stavbě rozuměl každý ze členů týmu. Tentokrát jde o spolupráci „na sucho“ — jde o to, abyste si procesem prošli společně a vyzkoušeli, že to funguje. Spolupracujte tudíž co nejúžeji (během společného videocallu nebo v jedné místnosti), abyste mohli reagovat na případné potíže ostatních členů týmu.
+  
+  **Do vstupního pole uveďte odkaz na schválený pull request a na zveřejněnou stránku „O nás“.** V poli pro komentář popište svou roli a problémy, s nimiž jste se setkali, a zhodnoťte, jak proběhla týmová spolupráce (alespoň 300 znaků).
+
+
+  ### Tvorba obsahu
+
+  **Společně s dalšími členy vašeho týmu** promyslete následující náležitosti vašeho projektu:
+  
+  1. Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)
+  2. Název webu
+  3. Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
+  4. Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
+  5. Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně
+  6. Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
+  7. Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+  8. Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)
+  
+
+  ### Jak to dostat na Github
+
+  V tomto úkolu pracujte s týmovým repozitářem — tzn. repozitářem toho/té člena či členky týmu, který/á stojí za vaším sdíleným tématem. 
+
+  #### Sdílení repozitáře (role 1, majitel repa)
+
+  Nasdílejte **repozitář na Githubu** ostatním členům týmu (Settings > Collaborators) a nastavte pravidlo, které chrání větev `master` a vyžaduje kontrolu před začleněním kódu pomocí alespoň jedné recenze (Settings > Branches; Protect this branch, Require pull request reviews, viz též [tento obrázek](http://tmp.jan-martinek.com/master-setup.png)). 
+
+  V týmovém projektu budete nadále využívat pro přidávání dalších změn tzv. [větví](https://help.github.com/desktop/guides/contributing-to-projects/creating-a-branch-for-your-work/) a pull requestů.
+
+  #### Pull request (role 2)
+
+  1. Vytvořte si v repozitáři (pomocí GitKraken) novou větev, pojmenujte ji „popis-webu“.
+  2. Nachystejte obsah. Výše sepsané náležitosti vložte v logické struktuře (pomocí Markdownu) na stránku *About* — najdete ji v souboru `about.md` ve složce `content` (můžete jej přejmenovat na „O nás“, „O projektu“ apod. a upravit i název souboru).
+  3. Vytvořte commit v nově vytvořené větvi a následně jej pushněte do nové větve repozitáře na Githubu (GitKraken se při pushování zeptá, do jaké větve chcete pushovat — mělo by stačit potvrdit, že chcete vytvořit stejnojmennou větev).
+  4. Následně na Githubu vytvořte tzv. pull request — přímo na stránce repozitáře na vás bude čekat upozornění, že došlo ke commitu do nově vytvořené větve a mělo by vás to navést k tvorbě pull requestu. Můžete si vyžádat review od třetího člena týmu, ale nemusíte (pokud to uděláte, přijde mu upozornění do e-mailu).
+
+  > **Pozn.:** Do větve můžete commitnout vícekrát (a pushnout ji na Github), pokud zjistíte, že jste na něco zapomněli. Všechny commity v dané větvi budou součástí souvisejícího pull requestu. Nicméně jakmile bude pull request přijatý, doporučuji větev smazat, abyste omylem nepřidávali do této větve další commity.
+
+  #### Code review (role 3)
+
+  Poté, co svou roli splní první dva členové týmu (pokud vás druhý člen týmu požádal o review, přijde vám upozornění do e-mailu), běžte na Github, otevřete si vytvořený pull request a proveďte [kontrolu kódu](https://help.github.com/en/articles/about-pull-request-reviews).
+
+  Pokud je vše v pořádku, můžete schválit provedené změny. Následně změny začleňte do kódu větve master pomocí tlačítka „Merge pull request“. 
+
+  Zkontrolujte, zda se změny projevily v publikované verzi webu na Netlify (publikace trvá většinou cca 30 sekund).
+
+  > ### Nejte si jistí, že vše proběhlo v pořádku?
+  > 
+  > Pokud si budete chtít proces lépe osvojit, můžete si jej zopakovat a případně si i protočit role. V řešení úkolu uveďte nicméně vždy ten pull request, který pracujte s týmovým repozitářem. Pokud první pokus na něčem ztroskotal nebo se něco pokazilo, můžete udělat další pull request — jen je potřeba, aby pracoval se souborem, který obsahuje stránku „about/o nás“, a aby tato stránka na konci měla výše definovaný obsah.
+comments: 10
+rubrics:
+  - checklist: "(Pokud se setkáte se stejným úkolem vícekrát, můžete hodnocení zkopírovat. Věnujte však prosím pozornost komentáři k týmové práci.)"
+    items:
+      - Stránka „o nás“ na zveřejněném webu má požadovaný obsah.
+      - U pull requestu je uvedeno, že bylo provedeno hodnocení.
+      - Z pull requestu je zřejmé, že úkol zpracovali všichni tři členové týmu (vlastník repozitáře, tvůrce requestu a reviewer jsou tři různé osoby).
+      - Je uvedeno, jakou roli zastával/a zpracovatel/ka úkolu.
+      - Vlastní a týmová práce je zhodnocena v požadovaném rozsahu.
+  - "Zhodnoťte slovně týmový úkol a v krátkosti porovnejte popsané zkušenosti s týmovou prací s vlastní zkušeností."

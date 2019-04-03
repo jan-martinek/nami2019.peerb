@@ -1,0 +1,26 @@
+bloom: apply
+time: 30
+comments: 5
+questions: >
+  Na základě tématu, které jste navrhli v předchozí lekci, najděte relevantní webový obsah, 
+  který byste mohli vložit pomocí výše popsaných metod na web vytvořený pomocí generátoru Hugo. 
+  Vytvořte nový článek ve složce `content/post` (tedy nový soubor jako např. `post/<nazev>.md`, strukturu si zkopírujte z jiného článku, který už je ve složce `post`) 
+  a do něj vložte embedovaný obsah a krátce okomentujte, proč jste jej vybrali (v obsahu článku
+  můžete používejte Markdown). Článek opatřete titulkem.
+
+
+  Zkontrolujte pomocí `hugo server`, zda se článek zobrazuje správně (pokud zadáte u článku aktuální datum, zobrazí se i na homepage), 
+  a případně obsah upravte. Následně nový soubor commitněte a pushněte na Github.
+
+
+  Do vstupního pole vložte odkaz na commit na Githubu a na publikovaný článek na webu (na subdoméně
+  služby Netlify).
+input: html
+rubrics:
+  - checklist: ''
+    items:
+      - V odpovědi je odkaz na správný commit.
+      - >-
+        V odpovědi je funkční odkaz na konkrétní článek.
+      - Vložený obsah se správně zobrazuje na odkazované stránce.
+      - Obsah je tematicky vhodně zvolený (je možné to odvodit z textu článku a názvu webu).

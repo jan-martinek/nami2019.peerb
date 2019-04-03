@@ -1,0 +1,28 @@
+bloom: understand
+time: 1h30
+questions: >
+  Najděte tři další služby, které podporují vkládání jejich obsahu do webu a
+  přiložte konkrétní kód. (Pokud budete hledat v angličtině, klíčová slova jsou
+  „embed“, „embeddable“ apod.).
+
+  Jednotlivé kusy kódu popište (ať už pomocí klasických odstavců anebo pomocí
+  [HTML komentářů](https://www.w3schools.com/tags/tag_comment.asp)).
+input: html
+prefill: |
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Zpracovaný úkol</title>
+  </head>
+  <body>
+    <!-- zde vložte obsah -->
+  </body>
+  </html>
+rubrics:
+  - checklist: ''
+    items:
+      - Kódy jsou vloženy.
+      - >-
+        Vložený obsah se správně zobrazuje (možno otestovat pomocí náhledu na vlastním webu 
+        — vložte kód do některého blogpostu a použijte příkaz `hugo server`).
+      - Kódy jsou okomentovány.
