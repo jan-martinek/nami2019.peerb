@@ -1,0 +1,63 @@
+bloom: understand
+time: 1h30
+params:
+  article:
+    - >-
+      **[Marcus Costello: What does tomorrow's farm look
+      like?](https://web.archive.org/web/20160307193755/https://amplifybusiness.com/what-does-tomorrows-farm-look)**
+    - >-
+      **[Tamara Dull: Big data and the Internet of Things: Two sides of the same
+      coin?](http://www.sas.com/en_us/insights/articles/big-data/big-data-and-iot-two-sides-of-the-same-coin.html)**
+    - >-
+      **[Kaushik Pal: Impact of IoT on Big Data
+      Landscape](http://www.kdnuggets.com/2015/07/impact-iot-big-data-landscape.html)**
+    - >-
+      **[Jason Bloomberg: 7 Reasons Why The Internet Of Things Is
+      Doomed](http://www.wired.com/insights/2014/07/7-reasons-internet-things-doomed/)**
+    - >-
+      **[Curtis Franklin Jr.: 10 Raspberry Pi Projects For Learning
+      IoT](http://www.informationweek.com/software/enterprise-applications/10-raspberry-pi-projects-for-learning-iot/d/d-id/1320757)**
+      (projděte si celý seznam a vyberte si 3 projekty, které vás zaujmou)
+    - >-
+      **[Todd Henderson: 7 Cool Iot Projects Worth Checking
+      Out](https://www.losant.com/blog/7-cool-iot-projects-worth-checking-out)**
+questions: >
+  Přečtěte si článek %article% a shrňte jej. Popište svůj pohled na danou
+  problematiku (v rozsahu alespoň 800 znaků) a položte čtenáři vašeho textu dvě
+  otevřené otázky, které vycházejí z textu. 
+
+
+  #### Kontext
+
+
+  Širší kontext můžete získat četbou dalších textů, které se věnují využití i
+  rizikům IoT:
+
+
+  - [Marcus Costello: What does tomorrow's farm look
+  like?](https://web.archive.org/web/20160307193755/https://amplifybusiness.com/what-does-tomorrows-farm-look)
+
+  - [Tamara Dull: Big data and the Internet of Things: Two sides of the same
+  coin?](http://www.sas.com/en_us/insights/articles/big-data/big-data-and-iot-two-sides-of-the-same-coin.html)
+
+  - [Kaushik Pal: Impact of IoT on Big Data
+  Landscape](http://www.kdnuggets.com/2015/07/impact-iot-big-data-landscape.html)
+
+  - [Jason Bloomberg: 7 Reasons Why The Internet Of Things Is
+  Doomed](http://www.wired.com/insights/2014/07/7-reasons-internet-things-doomed/)
+
+  - [Curtis Franklin Jr.: 10 Raspberry Pi Projects For Learning
+  IoT](http://www.informationweek.com/software/enterprise-applications/10-raspberry-pi-projects-for-learning-iot/d/d-id/1320757)
+
+  - [Todd Henderson: 7 Cool Iot Projects Worth Checking
+  Out](https://www.losant.com/blog/7-cool-iot-projects-worth-checking-out)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí je srozumitelné.
+      - Pojmy jsou používány správně.
+      - Autorův či autorčin postoj se nemíjí s obsahem článku.
+      - >-
+        Položené otázky nejsou triviální nebo zodpověditelné pouhým hledáním v
+        článku.
+  - Odpovězte na položené otázky.

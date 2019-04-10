@@ -1,0 +1,26 @@
+bloom: create
+time: 1h
+questions: >
+  Najděte ve službě [IFTTT](https://ifttt.com) (či jiné odbdobné službě) applet,
+  který vám pomůže s konkrétní činností v aplikacích, které již využíváte (jiný,
+  než v předchozí otázce). 
+
+
+  Popište danou činnost a jak při ní využíváte dané aplikace, funkčnost appletu
+  a odhadněte, kolik času měsíčně by vám automatizace ušetřila.
+
+
+  Zhodnoťte, zda se vám vyplatí nastavovat automatizaci nebo zda časová
+  investice do hledání nástrojů a jejich nastavování časovou úsporu nevyváži.
+
+
+  Pokud již nástroj používáte, popište klidně i již vámi používané applety.
+rubrics:
+  - checklist: ''
+    items:
+      - Applet je popsaný v souladu se zadáním.
+      - Popis činnosti a aplikace appletu je srozumitelný.
+      - >-
+        Vybraný applet skutečně slouží účelu, ke kterému jej autor/ka chce
+        využít.
+      - Zhodnocení je promyšlené a v kalkulaci nic zásadního neschází.

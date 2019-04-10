@@ -1,0 +1,21 @@
+summary: >
+  V této lekci se podíváme, jak spojovat různé webové *služby* a zařízení mezi
+  sebou.
+goals: >
+  Minule jsme si vyzkoušeli, jak využívat informace z jiných webů a sestavit z
+  nich vlastní web. Tentokrát uděláme úkrok stranou: budeme spojovat různé
+  webové služby a mrkneme, jak bychom mohli spojovat k internetu připojená
+  zařízení. 
+tags:
+  - IoT
+  - automatizace
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Automatizace a IoT
+outline:
+  - reading.md
+  - automatizace.yml
+  - ifttt.yml
+  - iot.md
+  - iot.yml
+  - moodboard.yml

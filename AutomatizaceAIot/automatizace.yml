@@ -1,0 +1,70 @@
+bloom: understand
+time: 2h
+params:
+  article:
+    - >-
+      [Eric Escobar: What Is IFTTT and How Can it Improve Your Digital
+      Life?](http://www.quickanddirtytips.com/tech/web/what-is-ifttt-and-how-can-it-improve-your-digital-life)
+      (pozor, článek má tři stránky)
+    - >-
+      [Jason Carpenter: The Best IFTTT
+      Applets](http://www.tomsguide.com/us/pictures-story/1032-best-ifttt-applets.html)
+    - >-
+      [Jason Carpenter: The Best IFTTT Applets for Amazon
+      Alexa](http://www.tomsguide.com/us/pictures-story/991-best-ifttt-applets-for-alexa.html)
+    - >-
+      [Rob Nightingale: IFTTT Applets Are Finally Here: What You Need to
+      Know](http://www.makeuseof.com/tag/ifttt-applets-finally-need-know/)
+    - >-
+      [David Nield: 15 New IFTTT Triggers to Make Life
+      Easier](http://fieldguide.gizmodo.com/15-new-ifttt-triggers-to-make-life-easier-1788943325)
+    - >-
+      [James A. Martin: 32 IFTTT applets to help you handle the
+      holidays](http://www.cio.com/article/3141995/mobile-apps/32-ifttt-applets-to-help-you-handle-the-holidays.html)
+    - >-
+      [Daniel Aditya Istyana: 5 useful IFTTT Applets that will save you
+      time](https://theappfactor.com/5-useful-ifttt-applets-that-will-save-your-time/)
+    - >-
+      [Dan Sung: Best IFTTT Applets for your smart
+      home](https://www.wareable.com/smart-home/best-ifttt-recipes)
+questions: >
+  Přečtěte si článek **%article%** a shrňte jej. Vyberte 3 pro vás
+  nejzajímavější zmíněné applety (dříve „recepty“) a popište je v kontextu.
+
+
+  #### Kontext
+
+
+  Širší kontext můžete získat četbou dalších textů, které se věnují automatizaci
+  (pozor, některé z článků jsou rozděleny na více částí):
+
+
+  - [Eric Escobar: What Is IFTTT and How Can it Improve Your Digital
+  Life?](http://www.quickanddirtytips.com/tech/web/what-is-ifttt-and-how-can-it-improve-your-digital-life)
+
+  - [Jason Carpenter: The Best IFTTT
+  Applets](http://www.tomsguide.com/us/pictures-story/1032-best-ifttt-applets.html)
+
+  - [Jason Carpenter: The Best IFTTT Applets for Amazon
+  Alexa](http://www.tomsguide.com/us/pictures-story/991-best-ifttt-applets-for-alexa.html)
+
+  - [Rob Nightingale: IFTTT Applets Are Finally Here: What You Need to
+  Know](http://www.makeuseof.com/tag/ifttt-applets-finally-need-know/)
+
+  - [David Nield: 15 New IFTTT Triggers to Make Life
+  Easier](http://fieldguide.gizmodo.com/15-new-ifttt-triggers-to-make-life-easier-1788943325)
+
+  - [James A. Martin: 32 IFTTT applets to help you handle the
+  holidays](http://www.cio.com/article/3141995/mobile-apps/32-ifttt-applets-to-help-you-handle-the-holidays.html)
+
+  - [Daniel Aditya Istyana: 5 useful IFTTT Applets that will save you
+  time](https://theappfactor.com/5-useful-ifttt-applets-that-will-save-your-time/)
+
+  - [Dan Sung: Best IFTTT Applets for your smart
+  home](https://www.wareable.com/smart-home/best-ifttt-recipes)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí je srozumitelné.
+      - Pojmy jsou používány správně.
+      - Popis vybraných appletů je srozumitelný.

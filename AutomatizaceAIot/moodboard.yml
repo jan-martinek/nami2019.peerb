@@ -1,0 +1,68 @@
+bloom: create
+input: markdown
+questions: |
+  ### Promýšlíme vizuál projektu: moodboard
+
+  Následující úkol se týká týmového projektu, ale zpracováváte jej samostatně.
+  Cílem je získat vstup od každého člena týmu, který pak pomůže s vytvořením
+  vizuální podoby výsledného webu.
+
+  ***
+
+  Bez nutnosti kódování (tzn. tvorby CSS kódu) navrhněte, jak byste upravili
+  šablony ve vašem týmovém projektu (**vizuální styl, zobrazené informace,
+  struktura informací, informační architektura atp.**).
+
+  Neomezujte se na kodérské dovednosti, které nyní máte: snažte se vytvořit doporučení,
+  která zlepší důvěryhodnost vašeho webu. Nesnažte se být samoúčelně inovativní,
+  využijte spíše konvence, které jsou již na jiných webových stránkách rozšířené
+  (mnohé se můžete naučit i imitací — proto je vhodné přiznat zdroje vaší
+  inspirace a odkázat na ně).
+
+  Vytvořte *[moodboard](https://en.wikipedia.org/wiki/Mood_board)*, který
+  shrnuje vizuální prvky, texty, screenshoty, fotky atp. které byste rádi na
+  webu použili. (Ke tvorbě moodboardu můžete použít libovolný online nástroj,
+  který umožňuje zveřejnění výstupu pomocí odkazu.)
+
+  Návrh úprav popište (očekávaná délka návrhu úprav je alespoň 800 znaků a moodboard by měl
+  obsahovat alespoň 20 objektů, z toho nejvýše čtvrtinu textových.)
+
+  ### Článek na webu
+
+  **Na společném projektovém webu sepište článek *„Tvorba moodboardu pro náš web“*, ve kterém se objeví
+  všechny tři moodboardy (jejich popis a obrázek/screenshot).**
+
+  - Pokud jste první, vytvořte nový článek.
+  - Pokud navazujete na již vytvořený článek, přidejte svou část do již vznikajícího textu a text článku vhodně strukturujte pomocí titulků (klidně přepracujte nadpisy, pokud nejsou správně vytvořené).
+  - Pokud jste ve trojčlenném týmu prostřední, zkontrolujte, zda má článek správně uvedené datum publikování (případně jej upravte) a vepište několik klíčových slov do hlavičky (pole `tags`).
+  - Pokud svou část vkládáte jako poslední, sepište pro článek krátký úvod, který popisuje cíl článku a krátce představuje jednotlivé moodboardy.
+
+  **Při práci s repozitářem na Githubu využívejte větví a pull requestů. Změny je potřebné vždy začlenit (merge) do větve `master`, aby na vaši práci mohli navázat kolegové.** Je dobré se na této spolupráci dopředu domluvit. Pokud máte dvoučlenný tým, rozdělte si prostřední úkol mezi sebe.
+
+  Do odpovědi vložte
+
+  - popis moodboardu
+  - odkaz na vytvořený moodboard uvnitř online nástroj
+  - odkaz na článek na webu, kde se nachází stejný popis a obrázek
+  - odkaz na commit na Githubu, ve kterém jste vložili obsah do repozitáře
+prefill: |
+  ### Popis moodboardu
+
+  (…)
+
+  ### Odkazy
+
+  - Odkaz na moodboard: (…)
+  - Odkaz na článek: (…)
+  - Odkaz na commit: (…)
+rubrics:
+  - checklist: 'Úkol je týmový — hodnoťte celkový výsledek práce.'
+    items:
+      - Úloha je splněna dle zadání.
+      - Moodboard a popsaný záměr jsou konzistentní.
+      - Moodboard je popsaný a zobrazený (např. pomocí screenshotu) ve článku na webu.
+      - Moodboardy všech členů týmu jsou obsažené v jednom článku, který členové týmu postupně sepsali pomocí práce s větvemi na Githubu (pokud je v odkazovaném článku zobrazen jen jeden mooadboard, zkontrolujte, zda na webu není více článků).
+      - Článek má úvod zpracovaný dle zadání.
+      - Článek má přibližně správné datum publikování a jsou v něm uvedená klíčová slova.
+      - 'Je rozeznatelné, že navrhované změny souvisí s cílovou skupinou projektu.'
+  - Zhodnoťte slovně záměr a moodboard (alespoň 200 znaků).
