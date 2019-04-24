@@ -1,0 +1,38 @@
+bloom: create
+comments: 5
+questions: |
+  ### Další krok týmového projektu
+
+  V projektovém týmu si rozdělte níže popsané tři úlohy (nezačínejte, dokud nebudete ve shodě ohledně rozdělení úkolů). Vzájemně si dejte vědět, jak to šlo a na jaké jste narazili problémy (příště se role promění). V týmovém repozitáři využívejte stejně jako minule [větví](https://help.github.com/desktop/guides/contributing-to-projects/creating-a-branch-for-your-work/) a pull requestů.
+
+  > **Pozn.:** Na úkolech můžete spolupracovat, ale zodpovědnost za každou z částí přijímá jeden ze členů. Každý člen týmu pracuje s týmovým repozitářem a využívá větví a *pull requestů*. Pokud jste v týmu pouze dva, vynechte první úkol.
+
+  1. **(Otevřená) data pro projekt.** Najděte externí data, která je možné ve vašem projektu využít: mohou to být konkrétní data, která se týkají vašeho předmětu zájmu anebo data, která s ním souvisejí (např. nemusí jít o data, která popisují *Ptactvo na jižní Moravě*, ale může jít o databázi ptáků anebo obdobnou datovou sadu z jiného regionu.) Vytvořte nový příspěvek na webu (post), kde odkažte na tyto zdroje a podrobně popište o jaká data jde, pod jakou licencí jsou dostupná a k jakým účelům byste je vy a vaši čtenáři mohli využít. (Přípravu pro tento úkol již možná máte na stránce *o webu*.)
+
+  2. **CSS.** Na základě návrhů změn a moodboardů, které jste vy a vaši týmoví kolegové vytvořili v předchozím úkolu (sesbírejte si je), zapracujte změny do CSS. Tentokrát upravujte pouze CSS kód (alespoň 40 deklarací pro alespoň 10 různých selektorů), v další  lekci budeme zasahovat do HTML šablon, což umožní výraznější změny. Do vstupního pole popište zpracované změny a nastiňte, jaké změny budete chtít provést přímo v HTML, aby se výsledek dále přiblížil tomu, co naznačují moodboardy.
+
+  3. **Nasazení Google Analytics a získání základního přehledu o využitém nástroji.** Na týmové Hugo nasaďte Google Analytics (postup dohledejte na internetu – není to složité). Do vstupního pole popište, jaké metriky je u webu vašeho zaměření vhodné měřit (doporučení dohledejte online) a jaké by měly být v těchto metrikách cíle vašeho projektu (např. *bounce rate v měsíci květnu bude pod 50 %*). **Projekt nebude hodnocen dle dosažení metrik, podstatná je jejich věcná správnost.**
+
+  Na tento úkol si vyhraďte alespoň 3 hodiny, abyste se zvládli domluvit na postupu. Do vstupního pole vložte krom výše zmíněného odkaz na týmový repozitář a případné pull requesty (pohlídejte si, aby byly uzavřené). 
+
+  V poli pro komentář popište a zhodnoťte průběh týmové spolupráce.
+input: markdown
+prefill: |
+  ### Odkazy
+
+  Odkaz na web na Netlify: (…)
+  Odkaz na pull request na Githubu: (…)
+
+  ### Další výstupy zadané výše:
+
+  (…)
+rubrics:
+  - checklist: ''
+    items:
+      - Úkol obsahuje odkazy potřebné pro jeho ohodnocení.
+      - Úpravy jsou vložené pomocí pull requestu, který je zkontrolován jiným členem či členkou týmu.
+      - Úpravy se zobrazují na webu zveřejněném pomocí Netlify.
+      - Úkol je zpracovaný dle zadání (tedy otevřená data jsou vložena a popsána, resp. úprava CSS odpovídá moodboardům a má požadovaný rozsah, resp. služba Google Analytics je nasazena).
+      - 'Je jasné, kterou týmovou roli zastává autor/ka úkolu.'
+      - Komentář popisující týmovou spolupráci není odbytý.
+  - 'Pokud se ve zpracování týmového úkolu objevují problémy, okomentujte je.'

@@ -1,0 +1,21 @@
+name: 'Open Data, Big Data a analytické nástroje'
+summary: >-
+  Tato lekce představí otevřená data (Open Data), velká data (Big Data) a
+  analytické nástroje pro jejich zkoumání.
+goals: >
+  Cílem této lekce je porozumění konceptu otevřených dat, nahlédnutí do povahy
+  velkých dat (big data) a úvodní vhled do používání analytických nástrojů.
+tags:
+  - open data
+  - big data
+  - Google Analytics
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+outline:
+  - reading.md
+  - open-data.yml
+  - bydliste.yml
+  - big-data.yml
+  - big-data-clanek.yml
+  - analyticke-nastroje.md
+  - projekt.yml

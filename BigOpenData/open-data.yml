@@ -1,0 +1,91 @@
+bloom: evaluate
+params:
+  article:
+    - >-
+      článek *[Tom Steinberg: Over-politeness Is The Fatal Flaw In The Open Data
+      Movement](http://civichall.org/civicist/over-politeness-is-the-fatal-flaw-in-the-open-data-movement/)*
+    - >-
+      článek *[Alan Freihof Tygel, Maria Luiza Machado Campos, Celso Alexandre
+      Souza de Alvear: Teaching Open Data for Social Movements: a Research
+      Strategy](http://ci-journal.net/index.php/ciej/article/view/1220/1165)*
+      (od úvodu kapitoly *Course Description* můžete přeskočit až k podkapitole
+      *Synthesis* v následující kapitole *Course Analysis*)
+    - >-
+      článek *[Barbara J. Parker, Kiran Jain: The Challenges of Open Data and
+      Privacy
+      Issues](http://www.westerncity.com/Western-City/April-2015/The-Challenges-of-Open-Data-and-Privacy-Issues/)*
+    - >-
+      článek *[Sharon S. Dawes: A Realistic Look at Open
+      Data](http://www.w3.org/2012/06/pmod/pmod2012_submission_38.pdf)*
+    - >-
+      článek *[Open data means business: UK innovation across sectors and
+      regions: Challenges for open data
+      companies](https://theodi.org/challenges-for-open-data-companies)*
+    - >-
+      článek *[Tony Roberts: The problem with Open
+      Data](http://www.computerweekly.com/opinion/The-problem-with-Open-Data)*
+    - >-
+      článek *[Donald Cowan, Paulo Alencar, Fred McGarry: Perspectives on Open
+      Data: Issues and
+      Opportunties](https://uwaterloo.ca/canadian-index-wellbeing/sites/ca.canadian-index-wellbeing/files/uploads/files/perspective_on_open_data-issues_and_opportunities.pdf)
+      (v druhé kapitole nemusíte procházet všechny příklady, ale přečtěte si
+      závěrečné *Summary*)*
+    - >-
+      dva kratší články *[David Hand: Open data is a force for good, but not
+      without
+      risks](http://www.theguardian.com/society/2012/jul/10/open-data-force-for-good-risks)
+      a [Tod Newcombe: The (Hidden) Cost of Open
+      Data](http://www.governing.com/columns/tech-talk/gov-open-data-cost-problems.html)*
+questions: >
+  Přečtěte si %article% a stručně jej shrňte. Následně vyjádřete svůj postoj k
+  přečtenému a položte hodnotiteli či hodnotitelce svého úkolu dvě otázky, které
+  nejsou vědomostní. (Ptejte se na to, co vás zaujalo, čemu nerozumíte, co vám
+  připadá divné atp.)
+
+
+  Minimální délka odpovědi je 800 znaků.
+
+
+  #### Kontext
+
+
+  Širší kontext můžete získat přečtením dalších textů, které jsou přiloženy k
+  tomuto úkolu:
+
+
+  - [Alan Freihof Tygel, Maria Luiza Machado Campos, Celso Alexandre Souza de
+  Alvear: Teaching Open Data for Social Movements: a Research
+  Strategy](http://ci-journal.net/index.php/ciej/article/view/1220/1165)
+
+  - [Barbara J. Parker, Kiran Jain: The Challenges of Open Data and Privacy
+  Issues](http://www.westerncity.com/Western-City/April-2015/The-Challenges-of-Open-Data-and-Privacy-Issues/)
+
+  - [David Hand: Open data is a force for good, but not without
+  risks](http://www.theguardian.com/society/2012/jul/10/open-data-force-for-good-risks)
+
+  - [Donald Cowan, Paulo Alencar, Fred McGarry: Perspectives on Open Data:
+  Issues and
+  Opportunties](https://uwaterloo.ca/canadian-index-wellbeing/sites/ca.canadian-index-wellbeing/files/uploads/files/perspective_on_open_data-issues_and_opportunities.pdf)
+
+  - [Open data means business: UK innovation across sectors and regions:
+  Challenges for open data
+  companies](https://theodi.org/challenges-for-open-data-companies)
+
+  - [Sharon S. Dawes: A Realistic Look at Open
+  Data](http://www.w3.org/2012/06/pmod/pmod2012_submission_38.pdf)
+
+  - [Tod Newcombe: The (Hidden) Cost of Open
+  Data](http://www.governing.com/columns/tech-talk/gov-open-data-cost-problems.html)
+
+  - [Tom Steinberg: Over-politeness Is The Fatal Flaw In The Open Data
+  Movement](http://civichall.org/civicist/over-politeness-is-the-fatal-flaw-in-the-open-data-movement/)
+
+  - [Tony Roberts: The problem with Open
+  Data](http://www.computerweekly.com/opinion/The-problem-with-Open-Data)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí má požadovaný rozsah.
+      - Shrnutí je srozumitelné (bez znalosti článku).
+      - Položené otázky mi umožnily zamyslet se nad tématem.
+  - Zodpovězte otázky položené v první úloze.

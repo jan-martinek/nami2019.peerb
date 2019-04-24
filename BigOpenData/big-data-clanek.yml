@@ -1,0 +1,49 @@
+bloom: evaluate
+params:
+  article:
+    - >-
+      [Adam Riglian: 'Big data' collection efforts spark an information ethics
+      debate](http://searchcloudapplications.techtarget.com/feature/Big-data-collection-efforts-spark-an-information-ethics-debate)
+    - >-
+      [John Rollins: Why we need a methodology for data
+      science](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
+    - >-
+      [Jonathan H. King, Neil M. Richards: What's Up With Big Data
+      Ethics?](http://www.forbes.com/sites/oreillymedia/2014/03/28/whats-up-with-big-data-ethics/#2a5e8dad2964)
+    - >-
+      [Margaret Steen: Ethical Uses of Collected
+      Data](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/ethical-uses-of-collected-data/)
+    - >-
+      [Éanna Kelly: UK government plans ethics council to guide big data
+      researchers](http://www.sciencebusiness.net/news/79758/UK-government-plans-ethics-council-to-guide-big-data-researchers)
+questions: >
+  V návaznosti na předchozí úlohu si přečtěte článek *%article%* a výstižně
+  shrňte jeho hlavní poselství. (Jeden delší odstavec textu, min. 500 znaků.)
+
+
+  #### Kontext
+
+
+  Pokud něco není jasné, možná pomohou související texty:
+
+
+  - [Adam Riglian: 'Big data' collection efforts spark an information ethics
+  debate](http://searchcloudapplications.techtarget.com/feature/Big-data-collection-efforts-spark-an-information-ethics-debate)
+
+  - [John Rollins: Why we need a methodology for data
+  science](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
+
+  - [Jonathan H. King, Neil M. Richards: What's Up With Big Data
+  Ethics?](http://www.forbes.com/sites/oreillymedia/2014/03/28/whats-up-with-big-data-ethics/#2a5e8dad2964)
+
+  - [Margaret Steen: Ethical Uses of Collected
+  Data](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/ethical-uses-of-collected-data/)
+
+  - [Éanna Kelly: UK government plans ethics council to guide big data
+  researchers](http://www.sciencebusiness.net/news/79758/UK-government-plans-ethics-council-to-guide-big-data-researchers)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí má požadovaný rozsah.
+      - Shrnutí je srozumitelné (bez znalosti článku).
+      - Termíny jsou v odpovědi používány správně.

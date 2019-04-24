@@ -31,6 +31,7 @@ units:
     - IA
     - RemixovaniWebu
     - AutomatizaceAIot
+    - BigOpenData
 menu:
     -   val: Diskusní fórum
         link: https://is.muni.cz/auth/cd/1421/jaro2019/VIKBA07/

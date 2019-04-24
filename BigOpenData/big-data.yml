@@ -1,0 +1,73 @@
+bloom: apply
+params:
+  article:
+    - >-
+      článkem *[Michal Černý: Big data a jejich
+      zpracování](http://www.root.cz/clanky/big-data-a-jejich-zpracovani/)*
+    - >-
+      videem *[Patrick Schwerdtfeger: What is Big Data? Big Data Explained
+      (Hadoop & MapReduce)](https://www.youtube.com/watch?v=c4BwefH5Ve8)*
+    - 'článkem *[What is big data?](https://opensource.com/resources/big-data)*'
+    - >-
+      článkem *[Ondřej Dolák: Big data — Nové způsoby zpracování a analýzy
+      velkých objemů dat](http://www.systemonline.cz/clanky/big-data.htm)*
+  term:
+    - '*Apache Hadoop*'
+    - '*MapReduce*'
+    - '*Apache Spark*'
+    - '*škálovatelnost* (scalability)'
+    - '*dashboard* (v kontextu big data)'
+    - '*živá vizualizace* (live visualisation; v kontextu big data)'
+questions: >
+  ### Big data
+
+
+  Big data označují datové sady, u nichž nesejde na jednotlivých řádcích. Jsou
+  to záznamy vytvořené díky počítačům: například jde o data o návštěvnosti webů,
+  produkční statistiky automobilky anebo podrobně zaznamenaná data o počasí. 
+
+
+  Nejde o termín, který označuje něco konkrétního: spíše jde o název pro trend.
+  Jde o přístup k práci s daty (jejich získávání, zpracování a analýzu).
+  Poznávacím znakem je především redukce výsledných dat do průběžně
+  aktualizovaných ukazatelů.
+
+
+  #### Úkol
+
+
+  Nechte se uvést do tématu big data %article% a krátce jej shrňte (dvě až tři
+  rozvité věty). 
+
+
+  Následně vlastními slovy popište, co znamená termín %term%. Při tvorbě
+  definice dohledejte jeden další, v úkolu neuvedený zdroj, kterým definici
+  podpoříte.
+
+
+  #### Kontext
+
+
+  Alternativním úvodem do tématu mohou být i následující články a videa:
+    
+  - [Michal Černý: Big data a jejich
+  zpracování](http://www.root.cz/clanky/big-data-a-jejich-zpracovani/)
+
+  - [Ondřej Dolák: Big data — Nové způsoby zpracování a analýzy velkých objemů
+  dat](http://www.systemonline.cz/clanky/big-data.htm)
+
+  - [Patrick Schwerdtfeger: What is Big Data? Big Data Explained (Hadoop &
+  MapReduce)](https://www.youtube.com/watch?v=c4BwefH5Ve8) (video)
+
+  - [Opensource.com: What is big
+  data?](https://opensource.com/resources/big-data)
+rubrics:
+  - checklist: ''
+    items:
+      - Článek je shrnutý ve 2–3 větách.
+      - Definice je správně vytvořena.
+      - Definice není zkopírována z jiného zdroje.
+      - >-
+        Zvolený zdroj obsahuje informace, které neobsahují zdroje zadané v
+        úkolu.
+      - Autor/ka čerpá z dohledaného zdroje při definování zadaného termínu.

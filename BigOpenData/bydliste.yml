@@ -1,0 +1,25 @@
+bloom: evaluate
+questions:
+  - >
+    Zamyslete se, jaká data byste chtěli znát o obci, kde máte trvalé bydliště
+    (pokud zde nebydlíte, zamyslete se nad obdobím, kdy to tak bylo). 
+
+
+    Jaké problémy, klíčové veřejné služby, provozní údaje, investiční náklady
+    atp. by bylo dobré znát? Jsou daná data nyní dostupná snadno? Kdo k nim má
+    nyní přístup? (Zvažujte pouze data, o kterých je důvodné předpokládat, že
+    jsou někde uložena.) 
+  - >
+    Vyberte si dvě z dostupných datových sad, které zveřejňuje [město Brno na
+    webu [data.brno.cz](http://data.brno.cz), které jsou pro vás srozumitelné 
+    (jak to, co popisují, tak alespoň část uložených dat).
+
+
+    Popište, co data obsahují, v jakých formátech jsou zveřejněna, jaká licence
+    je využita a k čemu by se dala tato data využít.
+rubrics:
+  - checklist: ''
+    items:
+      - Úkol je zcela splněn.
+      - Odpověď je srozumitelná.
+      - Termíny jsou v odpovědi používány správně.
