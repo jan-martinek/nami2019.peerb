@@ -1,0 +1,45 @@
+bloom: apply
+params:
+  article:
+    - >-
+      [Brian Proffitt: What APIs Are And Why They’re
+      Important](http://readwrite.com/2013/09/19/api-defined/)
+    - >-
+      [Michael Patterson: What Is an API, and Why Does It
+      Matter?](http://sproutsocial.com/insights/what-is-an-api/)
+    - >-
+      [Matthew Hughes: What Are APIs, And How Are Open APIs Changing The
+      Internet](http://www.makeuseof.com/tag/api-good-technology-explained/)
+    - >-
+      [Greg Sleter: What's an API and Why Do You Need
+      One?](http://www.govtech.com/applications/Whats-an-API-and-Why-Do-You-Need-One.html)
+questions: >
+  Přečtěte si článek **%article%** a vytáhněte z něj **tři hlavní myšlenky**.
+  Položte otevřenou otázku čtenáři (ne vědomostní, otázka by měla vést k
+  zamyšlení).
+
+
+  #### Kontext
+
+
+  Širší kontext můžete získat z ostatních článků, které jsou zadané v tomto
+  úkolu:
+    
+  - [Brian Proffitt: What APIs Are And Why They’re
+  Important](http://readwrite.com/2013/09/19/api-defined/)
+
+  - [Michael Patterson: What Is an API, and Why Does It
+  Matter?](http://sproutsocial.com/insights/what-is-an-api/)
+
+  - [Matthew Hughes: What Are APIs, And How Are Open APIs Changing The
+  Internet](http://www.makeuseof.com/tag/api-good-technology-explained/)
+
+  - [Greg Sleter: What's an API and Why Do You Need
+  One?](http://www.govtech.com/applications/Whats-an-API-and-Why-Do-You-Need-One.html)
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí je srozumitelné (bez znalosti článku).
+      - Shrnutí obsahuje 3 hlavní myšlenky.
+      - Autor/ka pokládá otevřenou otázku dle zadání.
+  - Zodpovězte otázku položenou autorem/autorkou.

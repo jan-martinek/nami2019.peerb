@@ -1,0 +1,23 @@
+bloom: apply
+time: 3h
+comments: 10
+questions: |
+  Rozdělte si v týmu následující úkoly:
+  
+  - **Homepage:** Obsahově upravte homepage (upravte titulek, doplňte textový a obrazový obsah, polaďte CSS) tak, aby srozumitelně seznámila někoho, kdo na váš web zavítá bez znalosti kontextu (tématu, týmu apod.).
+  - **Vychytávání chyb:** Vychytejte drobné problémy na webu — chyby v pravopisu, nepřeložená slova, vizuální problémy a podobně.
+  - **Interaktivní prvky:** Vložte pod každý článek interaktivní prvek (tlačítko Like z Facebooku, modul pro sdílení AddThis, počítadlo návštěv apod.) pomocí částečné šablony ([partial template](https://gohugo.io/templates/partials/)).
+  
+  Vyžádejte si komentář od kolegy/ně v týmu na provedené úpravy (přímo v pull requestu) a alespoň jeden podnět k úpravě (co zůstalo opomenuto? co by ještě šlo zlepšit?). Následně tyto podněty zapracujte do webu a přidejte k publikovanému pull requestu (tzn. commitněte změny do stejné větve).
+
+  V odpovědi popište provedené úpravy a uveďte odkazy na přijatý pull request v týmovém repozitáři a homepage týmového webu. Do komentáře níže popište průběh týmové spolupráce.
+
+  > **Pozn.:** Při schvalování pull requestů mohou tentokrát častěji vzniknout konflikty — pokud k nim dojde, můžete je řešit přímo na webu Githubu.
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď obsahuje správné odkazy na pull request a týmový web.
+      - Pull request obsahuje komentář od týmové/ho kolegy/ně se třemi návrhy k zapracování.
+      - Návrhy jsou zapracované.
+      - Úpravy jsou smysluplné (jak ty původní, tak ty navržené kolegou či kolegyní).
+      - Pull request je následně přijat.

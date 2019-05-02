@@ -1,0 +1,23 @@
+title: API a šablony v generátoru Hugo
+summary: API definuje rozhraní aplikace. Šablony umožňují psát opakující se kusy kódu jen jednou.
+goals: >
+  Cílem této lekce je porozumět konceptu aplikačního rozhraní (API) a naučit se
+  základní dovednosti při práci s šablonami v generátoru Hugo.
+tags:
+  - API
+  - šablonování
+  - template
+  - Hugo
+  - branch
+  - master
+  - feature branch
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+outline:
+  - api.md
+  - api.yml
+  - google-maps.yml
+  - sablony.md
+  - sablony.yml
+  - sablony-ulohy.yml
+  - sablony-praxe.yml

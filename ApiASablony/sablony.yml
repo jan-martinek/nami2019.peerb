@@ -1,0 +1,17 @@
+bloom: understand
+params:
+  place:
+    - >-
+      v proměnné `.Params` (a tedy definované ve *front matter* souborů s
+      koncovkou `.md` uložených ve složce `content/post`)
+    - v proměnné `.Site.Params` (a tedy definované v souboru `config.yaml`)
+questions: >
+  Popište, jaké parametry jsou dostupné %place% a jak jsou využívány v
+  základních šablonách přiložených v repozitáři
+  [jan-martinek/hugo-start](https://github.com/jan-martinek/hugo-start).
+rubrics:
+  - checklist: ''
+    items:
+      - Úloha je zpracována.
+      - Všechny parametry jsou vyjmenované.
+      - U parametrů je popsáno zda a jak jsou využívány v šablonách.

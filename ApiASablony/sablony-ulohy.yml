@@ -1,0 +1,14 @@
+bloom: create
+questions: |
+  Vytvořte tři úlohy řešitelné pomocí šablon — tzn. vymyslete změny, které se promítnou na více stránek pomocí změny v šabloně. Využijte přitom parametry definované jak pro celý web (v `config.yaml`), tak pro konkrétní stránky a šablony.
+
+  > **Příklad:** Ke každému článku, který k zobrazení využívá šablonu `post/single.html`, by bylo možné přidat parametr se jménem autora článku, které by pak bylo vypsáno velkými písmeny (řešeno pomocí CSS) v záhlaví stránky.
+
+  (Nemusíte se bát, že dané úlohy bude muset řešit recenzent anebo že je dostanete v příští lekci.)
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď obsahuje tři různé úlohy.
+      - V úlohách se pracuje s parametry definovanými pro celý web. (Proměnná `.Site.Params`.)
+      - V úlohách se pracuje s parametry definovanými ve stránkách. (Proměnná `.Params`.)
+      - Úlohy jsou řešitelné pomocí šablon Hugo.

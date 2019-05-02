@@ -1,0 +1,43 @@
+bloom: apply
+params:
+  mode:
+    - Place mode
+    - Attributed Save
+    - Directions mode
+    - Search mode
+    - View mode
+    - Street View mode
+questions: |
+  ### Google Maps
+
+  Jednoduché *rozhraní* je například URL. Webová adresa je v podstatě sled
+  parametrů — domény různých řádů a řetězec, který někdy označuje cestu (v
+  adresářové struktuře, např. `/blog/index.html`) a někdy předává různé
+  parametry (např. `/search?q=utfg`).
+
+  Před několika týdny jsme se potkali s možností vkládat obsah do stránky
+  („embedování“), nyní postoupíme o krůček dál a budeme pracovat s API
+  generátoru map. 
+
+  #### Úkol
+
+  Zorientujte se v [dokumentaci Google Maps Embed
+  API](https://developers.google.com/maps/documentation/embed/guide#map_modes),
+  které popisuje jak vytvořit volání (v tomto případě jde o webovou adresu), na
+  základě kterého server vrátí určitou mapu. Následně vytvořte tři URL volající
+  mapu, které pracují s módem *%mode%* a využívají různých volitelných parametrů
+  (Optional parameters). Zkontrolujte, zda je volání vytvořeno správně.
+    
+  Do komentáře (přímo ke kódu nebo do pole níže) uveďte, proč jste si vybrali
+  daná místa a popište volitelné parametry, které jste použili.
+input: html
+comments: 5
+rubrics:
+  - checklist: ''
+    items:
+      - V odpovědi jsou tři různá volání.
+      - Parametry jsou zadány správně.
+      - >-
+        Odpověď obsahuje komentář dle zadání (důvody pro výběr, použité
+        volitelné parametry).
+      - Výsledky všech tří volání se správně zobrazují v prohlížeči.
