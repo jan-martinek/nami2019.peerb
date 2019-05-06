@@ -17,7 +17,7 @@ rubrics:
   - checklist: ''
     items:
       - Odpověď obsahuje správné odkazy na pull request a týmový web.
-      - Pull request obsahuje komentář od týmové/ho kolegy/ně se třemi návrhy k zapracování.
-      - Návrhy jsou zapracované.
-      - Úpravy jsou smysluplné (jak ty původní, tak ty navržené kolegou či kolegyní).
+      - Pull request obsahuje komentář od týmové/ho kolegy/ně s alespoň jedním návrhem k zapracování.
+      - Návrh je zapracovaný.
+      - Úpravy jsou smysluplné (jak ty původní, tak ta navržená kolegou či kolegyní).
       - Pull request je následně přijat.
