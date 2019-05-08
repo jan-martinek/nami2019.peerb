@@ -1,0 +1,47 @@
+bloom: understand
+time: 1h30
+params:
+  article:
+    - >-
+      [Jon Card: *Anonymity is the internet's next big
+      battleground*](http://www.theguardian.com/media-network/2015/jun/22/anonymity-internet-battleground-data-advertisers-marketers)
+    - >-
+      [Grant Brunner: *The ultimate guide to staying anonymous and protecting
+      your privacy
+      online*](http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online)
+    - >-
+      [Computer Hope: *How To Be Anonymous On The
+      Internet*](http://www.computerhope.com/issues/ch000982.htm)
+    - >-
+      [John R. Quain: *The end of Internet
+      anonymity*](http://www.foxnews.com/tech/2015/08/25/end-internet-anonymity.html)
+    - >-
+      [Wikipedia: *Anonymity on the
+      Internet*](https://en.wikipedia.org/wiki/Anonymity#Anonymity_on_the_Internet)
+      (jde o část hesla *Anonymity*)
+questions: >
+  Na základě četby textu %article% sepište jeho shrnutí (min. 400 znaků). Širší
+  kontext můžete získat i proskenováním ostatních textů:
+    
+  - [Computer Hope: *How To Be Anonymous On The
+  Internet*](http://www.computerhope.com/issues/ch000982.htm)
+
+  - [Grant Brunner: *The ultimate guide to staying anonymous and protecting your
+  privacy
+  online*](http://www.extremetech.com/internet/180485-the-ultimate-guide-to-staying-anonymous-and-protecting-your-privacy-online)
+
+  - [John R. Quain: *The end of Internet
+  anonymity*](http://www.foxnews.com/tech/2015/08/25/end-internet-anonymity.html)
+
+  - [Jon Card: *Anonymity is the internet's next big
+  battleground*](http://www.theguardian.com/media-network/2015/jun/22/anonymity-internet-battleground-data-advertisers-marketers)
+
+  - [Wikipedia: *Anonymity on the
+  Internet*](https://en.wikipedia.org/wiki/Anonymity#Anonymity_on_the_Internet)
+  (jde o část hesla *[Anonymity](https://en.wikipedia.org/wiki/Anonymity)*)
+rubrics:
+  - checklist: ''
+    items:
+      - Srhnutí má požadovaný rozsah.
+      - Shrnutí je srozumitelné bez znalosti článku.
+      - Shrnutí neobsahuje faktické chyby.

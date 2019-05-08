@@ -1,0 +1,19 @@
+bloom: evaluate
+time: 30
+questions: >
+  V krátkosti (min. 350 znaků) naznačte, jaký přínos má znalost problematiky
+  *anonymity na internetu a dark webu* pro profesi *informačního profesionála*
+  či *knihovníka* (profesní směřování si vyberte dle svých preferencí).
+rubrics:
+  - checklist: ''
+    items:
+      - Hodnocení má požadovaný rozsah.
+      - Hodnocení je srozumitelné.
+      - Hodnocení obsahuje přesvědčivou argumentaci (dle následujícího slovní hodnocení).
+  - >-
+    Přepište použité argumenty vlastními slovy: vytvořte číslovaný seznam
+    argumentů, jehož položky jsou formulovány ve tvaru: *„Z toho, že [tvrzení
+    A], vyplývá, že [tvrzení B]“*.
+  - >-
+    Konfrontujte autorovo/autorčino hodnocení relevance znalosti problematiky se
+    svým vlastním názorem.

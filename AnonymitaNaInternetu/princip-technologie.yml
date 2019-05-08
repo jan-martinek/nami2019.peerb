@@ -1,0 +1,27 @@
+bloom: understand
+time: 1h
+params:
+  tech:
+    - technologie **VPN**
+    - technologie **Tor**
+    - '**relay v síti Tor**'
+    - technologie **I2P**
+    - technologie **Freenet**
+    - technika **onion routing**
+    - služba **Anonymouse.org**
+    - služba **proxy.org**
+questions: |
+  Na základě zdrojů dohledaných na internetu (uveďte alespoň dva) popište, jak
+  pracuje %tech%. Minimální rozsah odpovědi je 500 znaků (reference zdrojů se
+  nezapočítávají do rozsahu).
+
+  > Pro inspiraci přikládám několik možných otázek: Jaký je princip fungování?
+  Za jakých podmínek funguje? Kdo provozuje službu, popř. poskytuje technologii?
+  Jaké jsou nevýhody a potenciální problémy?
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď má požadovaný rozsah.
+      - V odpovědi jsou uvedeny užité zdroje.
+      - Odpověď je srozumitelná bez pročítání zdrojů.
+      - Odpověď neobsahuje faktické chyby.

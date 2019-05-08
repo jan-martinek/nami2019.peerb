@@ -1,0 +1,18 @@
+bloom: create
+time: 1h
+questions: >
+  Na webu, který jste hodnotili v předchozím úkolu, si vyberte problém či chybu
+  (jakéhokoli charakteru), které jste schopni opravit přímo v kódu. Chybu
+  opravte a opravu zašlete autorům pomocí *pull requestu*. Postupujte
+  systematicky — pokud se tato chyba objevuje v kódu projektu vícekrát, opravte
+  ji všude.
+
+
+  Ve vstupním poli uveďte odkaz na pull request. Sestavte jej tak, aby byl pro
+  autory akceptovatelný.
+rubrics:
+  - checklist: ''
+    items:
+      - Je uveden odkaz na pull request.
+      - Pull request je dobře popsaný.
+      - Pull request opravuje všechny výskyty dané chyby v kódu repozitáře.

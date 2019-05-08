@@ -1,0 +1,26 @@
+summary: >-
+  Anonymita na internetu a webová sídla umístěná v deep webu, kam vyhledávače
+  nedohlédnou.
+goals: >
+  Cílem této lekce je porozumět, k čemu může sloužit anonymita na internetu a
+  jak se jí dá dosáhnout. Krom toho se seznámíme s *temným webem* — webovými
+  sídly, které jsou součástí tzv. *deep webu*, mimo dosah internetových
+  vyhledávačů. Podstatné je uvědomění si relevance tématu pro vlastní osobní i
+  pracovní život.
+tags:
+  - anonymita
+  - soukromí
+  - darkweb
+time: 20
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Anonymita na internetu a Dark Web
+outline:
+  - reading.md
+  - anonymita-shrnuti.yml
+  - princip-technologie.yml
+  - dark-web.md
+  - dark-web.yml
+  - anonymita-pro-kiskare.yml
+  - clanky.yml
+  - projekt.yml

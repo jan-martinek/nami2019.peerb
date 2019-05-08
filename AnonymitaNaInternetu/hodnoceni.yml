@@ -1,0 +1,153 @@
+bloom: apply
+time: 1h
+params:
+  combinations:
+    - repo1: learn-jekyll
+      user1: JanVokral
+      repo2: learn-jekyll
+      user2: KT166
+    - repo1: learn-jekyll
+      user1: KT166
+      repo2: learn-jekyll
+      user2: ikeataska
+    - repo1: learn-jekyll
+      user1: ikeataska
+      repo2: KniHra
+      user2: Mikki-nami
+    - repo1: KniHra
+      user1: Mikki-nami
+      repo2: learn-jekyll
+      user2: Hondza
+    - repo1: learn-jekyll
+      user1: Hondza
+      repo2: learn-jekyll
+      user2: TerezaP
+    - repo1: learn-jekyll
+      user1: TerezaP
+      repo2: learn-jekyll
+      user2: '449103'
+    - repo1: learn-jekyll
+      user1: '449103'
+      repo2: learn-jekyll
+      user2: Pechackova
+    - repo1: learn-jekyll
+      user1: Pechackova
+      repo2: learn-jekyll
+      user2: UsernameIsAlreadyTaken16
+    - repo1: learn-jekyll
+      user1: UsernameIsAlreadyTaken16
+      repo2: learn-jekyll
+      user2: MichHajkova
+    - repo1: learn-jekyll
+      user1: MichHajkova
+      repo2: learn-jekyll
+      user2: '400538'
+    - repo1: learn-jekyll
+      user1: '400538'
+      repo2: learn-jekyll
+      user2: danielalunackova
+    - repo1: learn-jekyll
+      user1: danielalunackova
+      repo2: learn-jekyll
+      user2: JanVokral
+questions: >
+  Vyberte si jeden z níže uvedených webů vytvářených týmově v kurzu (pro případy
+  nefunkčnosti a náhodného přiřazení vašeho vlastního webu jsou nabízeny dvě
+  možnosti):
+
+
+  - %user1%/%repo1% ([repozitář](http://github.com/%user1%/%repo1%),
+  [web](http://%user1%.github.io/%repo1%/))
+
+  - %user2%/%repo2% ([repozitář](http://github.com/%user2%/%repo2%),
+  [web](http://%user2%.github.io/%repo2%/))
+
+
+  Zhodnoťte, zda je prozatím naplněno zadání (u každého bodu zhodnoťte slovem
+  **ano/ne** a krátce okomentujte):
+    
+  - web informuje o zvoleném tématu způsobem, který byste zhodnotili jako
+  přívětivý
+
+  - stránka *O webu* (*About*) je naplněna dle zadání
+
+  - web obsahuje příspěvek, který se týká otevřených dat
+
+  - na webu je nasazen analytický nástroj Google Analytics
+
+  - projekt korektně využívá upravených šablon v Jekyllu
+
+  - vizuální styl je upraven pomocí autorského CSS
+
+
+  > **Poznámka:** Toto hodnocení neslouží k bodovému ohodnocení autorů daného
+  webu, takže se nemusíte obávat, že byste autory kritikou poškodili. Právě
+  naopak: kvalitní kritika jim může pomoci k dotažení webu. Buďte struční a
+  výstižní a zhodnoťte všechny aspekty projektu.
+input: markdown
+prefill: >
+  # Vybraný web: ___.github.io/___/
+
+
+  ## Stručná charakteristika webu:
+    
+
+  ## Hodnocení:  
+
+
+  1) web informuje o zvoleném tématu způsobem, který byste zhodnotili jako
+  přívětivý
+
+
+
+
+  2) stránka O webu (About) je naplněna dle zadání
+
+
+
+
+  3) web obsahuje příspěvek, který se týká otevřených dat
+
+
+
+
+  4) na webu je nasazen analytický nástroj Google Analytics
+
+
+
+
+  5) projekt korektně využívá upravených šablon v Jekyllu
+
+
+
+
+  6) vizuální styl je upraven pomocí autorského CSS
+
+
+
+
+  ## Poznámky a komentáře:
+rubrics:
+  - checklist: >-
+      (Při kontrole si dejte pozor na to, že web již může vypadat odlišně než
+      při kontrole: změny však snadno najdete pohledem do historie repozitáře.)
+    items:
+      - Je uvedena stručná charakteristika webu.
+      - >-
+        Hodnocení **přívětivosti** je kompletní, srozumitelné a odpovídá stavu
+        projektu.
+      - >-
+        Hodnocení **stránky o webu** je kompletní, srozumitelné a odpovídá stavu
+        projektu.
+      - >-
+        Hodnocení **příspěvku o otevřených datech** je kompletní, srozumitelné a
+        odpovídá stavu projektu.
+      - >-
+        Hodnocení **nasazení Google Analytics** je uvedeno a odpovídá stavu
+        projektu.
+      - >-
+        Hodnocení **využívání upravených šablon** je kompletní, srozumitelné a
+        odpovídá stavu projektu.
+      - >-
+        Hodnocení **vizuálního stylu** je kompletní, srozumitelné a odpovídá
+        stavu projektu.

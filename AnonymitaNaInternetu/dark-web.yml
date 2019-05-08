@@ -1,0 +1,66 @@
+bloom: understand
+time: 1h30
+params:
+  article:
+    - >-
+      [Matt Egan: *What is the Dark Web? How to access the Dark Web. What's the
+      difference between the Dark Web and the Deep
+      Web?*](http://www.pcadvisor.co.uk/how-to/internet/what-is-dark-web-how-access-dark-web-deep-joc-beautfiulpeople-3593569/)
+    - >-
+      [Legion (Anonymous): *Over 1 Million Users Access Facebook Via Dark
+      Web*](http://anonhq.com/1-million-users-access-facebook-via-dark-web/)
+    - >-
+      [*Dark Web Is Going Mainstream: How to Use It
+      Safely*](https://pctechmag.com/2016/05/dark-web-is-going-mainstream-how-to-use-it-safely/)
+    - >-
+      [Daniel Miessler: *The Internet, the Deep Web, and the Dark
+      Web*](https://danielmiessler.com/study/internet-deep-dark-web/)
+    - >-
+      [Mark Stockley: *3 ways to get busted on the Dark
+      Web*](https://nakedsecurity.sophos.com/2015/09/04/3-ways-to-get-busted-on-the-dark-web/)
+    - >-
+      [Tom Simonite: *The Surprising Light Side of the Dark
+      Web*](https://www.technologyreview.com/s/601073/the-surprising-light-side-of-the-dark-web/)
+    - >-
+      [Ryan Whitwam: *OnionScan tests 'dark web' sites to see if they really are
+      anonymous*](http://www.extremetech.com/internet/226106-onionscan-tests-dark-web-sites-to-see-if-they-really-are-anonymous)
+    - >-
+      [Charlie Osborne: *10 things you didn't know about the Dark
+      Web*](http://www.zdnet.com/pictures/10-things-you-didnt-know-about-the-dark-web/4/)
+      (pozor, článek má 10 krátkých částí)
+questions: >
+  Na základě četby textu %article% sepište jeho shrnutí (min. 400 znaků) a v
+  krátkém odstavci pak definujte, co je to *dark web* (dle autora článku). Širší
+  kontext můžete načerpat i z ostatních článků:
+    
+  - [Charlie Osborne: *10 things you didn't know about the Dark
+  Web*](http://www.zdnet.com/pictures/10-things-you-didnt-know-about-the-dark-web/4/)
+  (pozor, článek má 10 krátkých částí)
+
+  - [Daniel Miessler: *The Internet, the Deep Web, and the Dark
+  Web*](https://danielmiessler.com/study/internet-deep-dark-web/)
+
+  - [Dark Web I*s Going Mainstream: How to Use It
+  Safely*](https://pctechmag.com/2016/05/dark-web-is-going-mainstream-how-to-use-it-safely/)
+
+  - [Legion (Anonymous): *Over 1 Million Users Access Facebook Via Dark
+  Web*](http://anonhq.com/1-million-users-access-facebook-via-dark-web/)
+
+  - [Mark Stockley: *3 ways to get busted on the Dark
+  Web*](https://nakedsecurity.sophos.com/2015/09/04/3-ways-to-get-busted-on-the-dark-web/)
+
+  - [Matt Egan: *What is the Dark Web? How to access the Dark Web. What's the
+  difference between the Dark Web and the Deep
+  Web?*](http://www.pcadvisor.co.uk/how-to/internet/what-is-dark-web-how-access-dark-web-deep-joc-beautfiulpeople-3593569/)
+
+  - [Ryan Whitwam: *OnionScan tests 'dark web' sites to see if they really are
+  anonymous*](http://www.extremetech.com/internet/226106-onionscan-tests-dark-web-sites-to-see-if-they-really-are-anonymous)
+
+  - [Tom Simonite: *The Surprising Light Side of the Dark
+  Web*](https://www.technologyreview.com/s/601073/the-surprising-light-side-of-the-dark-web/)
+rubrics:
+  - checklist: ''
+    items:
+      - Srhnutí má požadovaný rozsah.
+      - Shrnutí je srozumitelné bez znalosti článku.
+      - Shrnutí neobsahuje faktické chyby.

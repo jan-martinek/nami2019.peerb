@@ -1,0 +1,17 @@
+bloom: understand
+comments: 5
+questions: |
+  Vytvořte článek, který se tématicky váže k Vašemu projektu (každý člen týmu jeden článek). 
+
+  - Dohodněte se v týmu na tématech článků.
+  - Sepište krátký relevantní článek (v rozsahu alespoň 600 znaků), který ilustrujte pomocí obrázku. Při vkládání obrázku můžete využít funkci "Page Bundles", která [umožňuje článek s obrázky vložit jako složku](https://gohugo.io/content-management/page-bundles/) namísto `clanek.md` tak máte složku `clanek` a uvnitř je článek v souboru `index.md` a obrázky.
+  - Článek commitněte pomocí feature větve a požádejte pomocí pull requestu o zařazení do masteru.
+
+  Do odpovědi zkopírujte odkaz na schválený pull request a odkaz na publikovaný článek na Vašem týmovém webu. Do komentáře popište týmovou spolupráci při práci na úkolu.
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď obsahuje odkaz na pull request v týmovém repozitáři.
+      - Pull request je zkontrolovaný a změny jsou sloučeny do *masteru*.
+      - Článek má potřebný rozsah a obsahuje obrázek, který byl přidán coby součást pull requestu.
+      - Článek se v pořádku zobrazuje na webu.
