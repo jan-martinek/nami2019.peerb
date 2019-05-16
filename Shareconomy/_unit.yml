@@ -1,0 +1,15 @@
+summary: Sharing economy — jak technologie mění tržní vztahy 
+goals: >
+  Tato lekce je poměrně stručná a krátká: podíváme se krátce na fenomén *sharing
+  economy*, v očekávání závěru semestru si přečtene esej o budoucnosti internetu
+  a projdeme vytvořené projekty.
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Shareconomy
+outline:
+  - reading.md
+  - sluzby-sharing-economy.yml
+  - definice-sharing-economy.yml
+  - everything-is-broken.yml
+  - kontrola-projektu.yml
+  - ga.yml

@@ -1,0 +1,17 @@
+summary: Web 2.0 a uživateli generovaný obsah
+goals: >
+  Cílem poslední lekce je především porozumět vzniku konceptu „Web 2.0“ a vývoji
+  webu v době jeho vzniku. 
+time: 2h
+rubrics:
+  - Slovně zhodnoťte případné nedostatky tohoto úkolu.
+title: Web 2.0
+outline:
+  - reading.md
+  - charakteristiky-web20.yml
+  - web20-sluzby.yml
+  - algoritmicky-feed.yml
+  - wiki.yml
+  - glitch.yml
+  - dotahovani.yml
+  - projekt.yml

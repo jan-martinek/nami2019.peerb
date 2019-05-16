@@ -1,0 +1,217 @@
+bloom: evaluate
+params:
+  combinations:
+    - web1: https://tender-leavitt-e2787b.netlify.com
+      repo1: https://github.com/Krisstyynka/muj-webovy-projekt/
+      name1: Krisstyynka/muj-webovy-projekt
+      web2: https://cranky-brattain-9738bc.netlify.com
+      repo2: https://github.com/smerdovaveronika/muj-webovy-projekt/
+      name2: smerdovaveronika/muj-webovy-projekt
+      web3: https://albaniewebalbanieweb.netlify.com
+      repo3: https://github.com/zahradnicekr/AlbanieWeb/
+      name3: zahradnicekr/AlbanieWeb
+    - web1: https://gracious-kalam-e9c5ec.netlify.com
+      repo1: https://github.com/terezkaprochazek/muj_webovy_projekt/
+      name1: terezkaprochazek/muj_webovy_projekt
+      web2: https://tender-leavitt-e2787b.netlify.com
+      repo2: https://github.com/Krisstyynka/muj-webovy-projekt/
+      name2: Krisstyynka/muj-webovy-projekt
+      web3: https://cranky-brattain-9738bc.netlify.com
+      repo3: https://github.com/smerdovaveronika/muj-webovy-projekt/
+      name3: smerdovaveronika/muj-webovy-projekt
+    - web1: https://condescending-meninsky-2ba4c5.netlify.com
+      repo1: https://github.com/Chymster/muj-webovy-projekt/
+      name1: Chymster/muj-webovy-projekt
+      web2: https://gracious-kalam-e9c5ec.netlify.com
+      repo2: https://github.com/terezkaprochazek/muj_webovy_projekt/
+      name2: terezkaprochazek/muj_webovy_projekt
+      web3: https://tender-leavitt-e2787b.netlify.com
+      repo3: https://github.com/Krisstyynka/muj-webovy-projekt/
+      name3: Krisstyynka/muj-webovy-projekt
+    - web1: https://quizzical-tesla-fb2f40.netlify.com
+      repo1: https://github.com/adelaweidischova/virtualni-realita/
+      name1: adelaweidischova/virtualni-realita
+      web2: https://condescending-meninsky-2ba4c5.netlify.com
+      repo2: https://github.com/Chymster/muj-webovy-projekt/
+      name2: Chymster/muj-webovy-projekt
+      web3: https://gracious-kalam-e9c5ec.netlify.com
+      repo3: https://github.com/terezkaprochazek/muj_webovy_projekt/
+      name3: terezkaprochazek/muj_webovy_projekt
+    - web1: https://silly-shockley-dc6909.netlify.com
+      repo1: https://github.com/KristHol/muj-webovy-projekt/
+      name1: KristHol/muj-webovy-projekt
+      web2: https://quizzical-tesla-fb2f40.netlify.com
+      repo2: https://github.com/adelaweidischova/virtualni-realita/
+      name2: adelaweidischova/virtualni-realita
+      web3: https://condescending-meninsky-2ba4c5.netlify.com
+      repo3: https://github.com/Chymster/muj-webovy-projekt/
+      name3: Chymster/muj-webovy-projekt
+    - web1: https://eloquent-wiles-d75ba3.netlify.com
+      repo1: https://github.com/janest789/muj-webovy-projekt/
+      name1: janest789/muj-webovy-projekt
+      web2: https://silly-shockley-dc6909.netlify.com
+      repo2: https://github.com/KristHol/muj-webovy-projekt/
+      name2: KristHol/muj-webovy-projekt
+      web3: https://quizzical-tesla-fb2f40.netlify.com
+      repo3: https://github.com/adelaweidischova/virtualni-realita/
+      name3: adelaweidischova/virtualni-realita
+    - web1: https://confident-archimedes-336817.netlify.com
+      repo1: https://github.com/AdamdaVinci/muj-webovy-projekt/
+      name1: AdamdaVinci/muj-webovy-projekt
+      web2: https://eloquent-wiles-d75ba3.netlify.com
+      repo2: https://github.com/janest789/muj-webovy-projekt/
+      name2: janest789/muj-webovy-projekt
+      web3: https://silly-shockley-dc6909.netlify.com
+      repo3: https://github.com/KristHol/muj-webovy-projekt/
+      name3: KristHol/muj-webovy-projekt
+    - web1: https://xenodochial-lewin-dc7bbf.netlify.com
+      repo1: https://github.com/weisova/muj-webovy-projekt/
+      name1: weisova/muj-webovy-projekt
+      web2: https://confident-archimedes-336817.netlify.com
+      repo2: https://github.com/AdamdaVinci/muj-webovy-projekt/
+      name2: AdamdaVinci/muj-webovy-projekt
+      web3: https://eloquent-wiles-d75ba3.netlify.com
+      repo3: https://github.com/janest789/muj-webovy-projekt/
+      name3: janest789/muj-webovy-projekt
+    - web1: https://blissful-stonebraker-8a5866.netlify.com
+      repo1: https://github.com/terezakorinkova/muj-webovy-projekt/
+      name1: terezakorinkova/muj-webovy-projekt
+      web2: https://xenodochial-lewin-dc7bbf.netlify.com
+      repo2: https://github.com/weisova/muj-webovy-projekt/
+      name2: weisova/muj-webovy-projekt
+      web3: https://confident-archimedes-336817.netlify.com
+      repo3: https://github.com/AdamdaVinci/muj-webovy-projekt/
+      name3: AdamdaVinci/muj-webovy-projekt
+    - web1: https://jovial-ptolemy-07956d.netlify.com
+      repo1: https://github.com/LucieScholze/Hra-o-Tr-ny/
+      name1: LucieScholze/Hra-o-Tr-ny
+      web2: https://blissful-stonebraker-8a5866.netlify.com
+      repo2: https://github.com/terezakorinkova/muj-webovy-projekt/
+      name2: terezakorinkova/muj-webovy-projekt
+      web3: https://xenodochial-lewin-dc7bbf.netlify.com
+      repo3: https://github.com/weisova/muj-webovy-projekt/
+      name3: weisova/muj-webovy-projekt
+    - web1: https://amazing-kepler-3641a5.netlify.com
+      repo1: https://github.com/utkaa/moj-webovy-projekt/
+      name1: utkaa/moj-webovy-projekt
+      web2: https://jovial-ptolemy-07956d.netlify.com
+      repo2: https://github.com/LucieScholze/Hra-o-Tr-ny/
+      name2: LucieScholze/Hra-o-Tr-ny
+      web3: https://blissful-stonebraker-8a5866.netlify.com
+      repo3: https://github.com/terezakorinkova/muj-webovy-projekt/
+      name3: terezakorinkova/muj-webovy-projekt
+    - web1: https://gallant-jang-a859c1.netlify.com
+      repo1: https://github.com/prcounek420/muj-webovy-projekt/
+      name1: prcounek420/muj-webovy-projekt
+      web2: https://amazing-kepler-3641a5.netlify.com
+      repo2: https://github.com/utkaa/moj-webovy-projekt/
+      name2: utkaa/moj-webovy-projekt
+      web3: https://jovial-ptolemy-07956d.netlify.com
+      repo3: https://github.com/LucieScholze/Hra-o-Tr-ny/
+      name3: LucieScholze/Hra-o-Tr-ny
+    - web1: https://reverent-einstein-1993a0.netlify.com
+      repo1: https://github.com/KamVej/Tajemstvi-kpopu/
+      name1: KamVej/Tajemstvi-kpopu
+      web2: https://gallant-jang-a859c1.netlify.com
+      repo2: https://github.com/prcounek420/muj-webovy-projekt/
+      name2: prcounek420/muj-webovy-projekt
+      web3: https://amazing-kepler-3641a5.netlify.com
+      repo3: https://github.com/utkaa/moj-webovy-projekt/
+      name3: utkaa/moj-webovy-projekt
+    - web1: https://stoic-shirley-c6e0ce.netlify.com
+      repo1: https://github.com/honeyblah/M-j-webov-projekt/
+      name1: honeyblah/M-j-webov-projekt
+      web2: https://reverent-einstein-1993a0.netlify.com
+      repo2: https://github.com/KamVej/Tajemstvi-kpopu/
+      name2: KamVej/Tajemstvi-kpopu
+      web3: https://gallant-jang-a859c1.netlify.com
+      repo3: https://github.com/prcounek420/muj-webovy-projekt/
+      name3: prcounek420/muj-webovy-projekt
+    - web1: https://jak-vyzrat-na-cosplay2.netlify.com
+      repo1: https://github.com/474302/PROJEKT/
+      name1: 474302/PROJEKT
+      web2: https://stoic-shirley-c6e0ce.netlify.com
+      repo2: https://github.com/honeyblah/M-j-webov-projekt/
+      name2: honeyblah/M-j-webov-projekt
+      web3: https://reverent-einstein-1993a0.netlify.com
+      repo3: https://github.com/KamVej/Tajemstvi-kpopu/
+      name3: KamVej/Tajemstvi-kpopu
+    - web1: https://boring-mccarthy-e2e932.netlify.com
+      repo1: https://github.com/bouchyman/Pejsci/
+      name1: bouchyman/Pejsci
+      web2: https://jak-vyzrat-na-cosplay2.netlify.com
+      repo2: https://github.com/474302/PROJEKT/
+      name2: 474302/PROJEKT
+      web3: https://stoic-shirley-c6e0ce.netlify.com
+      repo3: https://github.com/honeyblah/M-j-webov-projekt/
+      name3: honeyblah/M-j-webov-projekt
+    - web1: https://elegant-visvesvaraya-ecc193.netlify.com
+      repo1: https://github.com/Kasikova/muj-webovy-projekt/
+      name1: Kasikova/muj-webovy-projekt
+      web2: https://boring-mccarthy-e2e932.netlify.com
+      repo2: https://github.com/bouchyman/Pejsci/
+      name2: bouchyman/Pejsci
+      web3: https://jak-vyzrat-na-cosplay2.netlify.com
+      repo3: https://github.com/474302/PROJEKT/
+      name3: 474302/PROJEKT
+    - web1: https://gifted-goodall-8767fd.netlify.com
+      repo1: https://github.com/Kayly-hime/muj-webovy-projekt/
+      name1: Kayly-hime/muj-webovy-projekt
+      web2: https://elegant-visvesvaraya-ecc193.netlify.com
+      repo2: https://github.com/Kasikova/muj-webovy-projekt/
+      name2: Kasikova/muj-webovy-projekt
+      web3: https://boring-mccarthy-e2e932.netlify.com
+      repo3: https://github.com/bouchyman/Pejsci/
+      name3: bouchyman/Pejsci
+    - web1: https://albaniewebalbanieweb.netlify.com
+      repo1: https://github.com/zahradnicekr/AlbanieWeb/
+      name1: zahradnicekr/AlbanieWeb
+      web2: https://gifted-goodall-8767fd.netlify.com
+      repo2: https://github.com/Kayly-hime/muj-webovy-projekt/
+      name2: Kayly-hime/muj-webovy-projekt
+      web3: https://elegant-visvesvaraya-ecc193.netlify.com
+      repo3: https://github.com/Kasikova/muj-webovy-projekt/
+      name3: Kasikova/muj-webovy-projekt
+    - web1: https://cranky-brattain-9738bc.netlify.com
+      repo1: https://github.com/smerdovaveronika/muj-webovy-projekt/
+      name1: smerdovaveronika/muj-webovy-projekt
+      web2: https://albaniewebalbanieweb.netlify.com
+      repo2: https://github.com/zahradnicekr/AlbanieWeb/
+      name2: zahradnicekr/AlbanieWeb
+      web3: https://gifted-goodall-8767fd.netlify.com
+      repo3: https://github.com/Kayly-hime/muj-webovy-projekt/
+      name3: Kayly-hime/muj-webovy-projekt
+questions: |
+  Vyberte si jeden z níže uvedených projektů vytvářených týmově v kurzu (pro případy
+  nefunkčnosti a náhodného přiřazení vašeho vlastního webu jsou nabízeny tři
+  možnosti):
+
+  - **%name1%**: ([repozitář](%repo1%), [web](%web1%))
+  - **%name2%**: ([repozitář](%repo2%), [web](%web2%))
+  - **%name3%**: ([repozitář](%repo3%), [web](%web3%))
+      
+  Komplexně zhodnoťte zpracovaný projekt s ohledem na zadání projektů v průběhu
+  semestru:
+
+  1. Vytvořte pět vlastních kategorií hodnocení, které argumentačně podložte (popište, proč jde o důležitá měřítka hodnocení). 
+  2. Následně v každé z těchto kategorií ohodnoťte projekt na stupnici 1–5 (jako
+  ve škole) a hodnocení vždy slovně zdůvodněte.
+
+  Do titulku zkopírujte název projektu (ve tvaru **uživatel/repo**) ze zadání, aby bylo možné hodnocení dohledat. Celé hodnocení by mělo obsahovat alespoň 1000 znaků.
+input: markdown
+prefill: |
+  # Vybraný projekt: [zkopírujte vytučněný název ze zadání]
+
+  ## Kategorie hodnocení:
+
+  ## Hodnocení:
+rubrics:
+  - checklist: ''
+    items:
+      - Titulek obsahuje správně zkopírovaný název projektu.
+      - Odpověď má požadovaný rozsah.
+      - Kategorie jsou zvoleny vhodně.
+      - Slovní hodnocení není snadno zpochybnitelné.
+  - >-
+    Krátce okomentujte zvolené kategorie hodnocení. Porovnejte je s kategoriemi,
+    které jste zvolili vy sami.

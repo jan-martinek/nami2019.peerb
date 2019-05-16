@@ -1,0 +1,26 @@
+bloom: apply
+input: file
+comments: 10
+questions: >
+  Vyberte si metriku v účtu Google Analytics, která ukazuje u vašeho týmového
+  projektu nenulové hodnoty v posledních dvou měsících. Vložte *screenshot*
+  grafu a případně též části tabulek (dle vlastního zvážení) do přílohy a
+  okomentujte, co jednotlivé hodnoty označují a znamenají. (Pokud neznamenají
+  nic anebo nedovedete vůbec nic identifikovat, vyberte jinou metriku.)
+
+
+  - Pokud v týmu nemáte sdílený přístup do Google Analytics, nechte si [přístup
+  nasdílet](https://www.google.cz/?q=sd%C3%ADlet+př%C3%ADstup+google+analytics). 
+
+  - Pokud nemáte v rámci projektu zavedené Google Analytics, vyhledejte si
+  samostatně zdroje o webové analytice a krátce (alespoň 500 znaků) shrňte
+  **úskalí a rizika**, která přináší provozovatelům webů a služeb práce s
+  analytickými nástroji jako jsou Google Analytics. Pro ilustraci shrnutí
+  vytvořte schéma, které nahrajte do přílohy.
+rubrics:
+  - checklist: ''
+    items:
+      - Screenshot je dobře vybrán. (Popř. schéma je vhodně vytvořeno.)
+      - >-
+        Interpretace naměřených hodnot je správná. (Popř. shrnutí má zadanou
+        délku a je výstižným shrnutím uvedeného zdroje.)

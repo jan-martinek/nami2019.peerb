@@ -1,0 +1,35 @@
+bloom: evaluate
+params:
+  service:
+    - Zipcar
+    - Uber
+    - Lyft
+    - BlaBlaCar
+    - AirBnB
+    - BMW Drive
+    - Whipcar
+    - Rekola
+    - Zimride
+    - Carpooling
+    - Udemy
+    - 9flats.com
+    - Liftago
+    - Kickstarter
+    - Indiegogo
+    - Startovač
+    - Hithit
+    - Skillshare
+    - Craigslist
+    - DogVacay
+    - TaskRabbit
+    - Getaround
+    - NeighbourGoods
+questions: >
+  Na základě vlastnoručně dohledaných a citovaných zdrojů popište službu
+  *%service%*. Zhodnoťte, zda patří k *sharing economy*.
+rubrics:
+  - checklist: ''
+    items:
+      - Shrnutí je podloženo dohledanými a citovanými zdroji.
+      - Popis je srozumitelný bez dohledávání zdrojů.
+      - Nechybí argumentačně solidní hodnocení, zda daná služba patří k *sharing economy*.

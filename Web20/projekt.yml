@@ -1,0 +1,27 @@
+bloom: apply
+comments: 20
+input: file
+questions: |
+  # Týmový projekt
+
+  Tento úkol slouží pro odevzdání týmového projektu — vyplňte prosím níže uvedené údaje. 
+  Hodnocení bude provedeno vyučujícím. Odevzdání projektu, který naplňuje níže uvedené parametry
+  je podmínkou pro úspěšné ukončení předmětu. Pokud projekt nebude odevzdán v uspokojivé podobě,
+  budete jej moci opravit v opravném termínu.
+
+  - odkaz na projektový web zveřejněný na Netlify
+  - odkaz na váš profil na Githubu
+  - odkaz na projektový repozitář
+  - odkaz na stránku „About/O nás“, která popisuje záměr webu
+  - odkaz na dobře popsaný commit, který obsahuje změnu více souborů zároveň
+  - odkaz na vámi vytvořený, dobře provedený pull request (dobře popsané commity, dobře nazvaný PR, užitečně odvedené review)
+  - odkaz na vámi vytvořený pull request, který obsahuje opravu v reakci na review
+  - odkaz na vámi připravený moodboard
+  - komentář k záměru a realizaci změn v CSS
+  - komentář k záměru a realizaci změn v šablonách
+  - screenshot z Google Analytics
+  - komentář k průběhu týmové práce během semestru
+
+  Screenshot vložte jako soubor, ostatní položky sepište do komentáře.
+
+  Odpovědi je možné připravovat týmově, jen dejte pozor na položky, které vyžadují vaši přímou aktivitu.

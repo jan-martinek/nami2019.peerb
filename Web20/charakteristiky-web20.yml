@@ -1,0 +1,24 @@
+bloom: understand
+time: 30
+params:
+  characteristic:
+    - '*folksonomie* (Folksonomy)'
+    - '*Rich User Experience* (termín běžně se nepřekládá do češtiny)'
+    - '*účast uživatele na tvorbě obsahu* (User Participation)'
+    - '*Software as a service* (SaaS)'
+    - '*masová participace uživatelů*'
+questions: >
+  Popište, jaký význam má %characteristic% coby charakteristika Webu 2.0. Na
+  základě samostatně dohledaných zdrojů vysvětelete, **proč jde o podstatnou
+  charakteristiku Webu 2.0**, a uveďte **konkrétní příklady, kde se projevuje**.
+
+
+  Minimální délka odpovědi je 500 znaků (odkazy na zdroje se do rozsahu
+  nezapočítají).
+rubrics:
+  - checklist: ''
+    items:
+      - Rozsah odpovědi odpovídá zadání.
+      - Popis vybrané charakteristiky Webu 2.0 je zpracován správně.
+      - Jsou uvedeny použité zdroje.
+      - Jsou uvedeny vhodné a užitečné ilustrační příklady.

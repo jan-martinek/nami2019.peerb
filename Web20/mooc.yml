@@ -1,0 +1,15 @@
+bloom: evaluate
+time: 30
+questions: >
+  Popište, co je to *MOOC*. 
+
+
+  Následně dohledejte kurz na libovolné MOOC platformě, který je pro vás
+  tematicky zajímavý. Zhodnoťte, zda je pro vás tato forma vzdělávání atraktivní
+  (uveďte alespoň pět argumentů pro nebo proti).
+rubrics:
+  - checklist: ''
+    items:
+      - Charakteristika *MOOC* je správná.
+      - Je uveden příklad MOOC kurzu.
+      - Subjektivní atraktivita výuky pomocí MOOC je přesvědčivě zhodnocena.

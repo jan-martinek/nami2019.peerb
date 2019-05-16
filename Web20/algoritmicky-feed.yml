@@ -1,0 +1,34 @@
+bloom: evaluate
+time: 1h
+questions:
+  - >-
+    Popište, co je to algoritmická tvorba feedu v kontextu sociálních sítí jako
+    je Facebook či Twitter.
+  - >-
+    Popište, jakým způsobem vybírá sociální síť Facebook obsah, který se
+    zobrazuje uživatelům ve *feedu*.
+  - >-
+    Popište, jaký dopad může mít algoritmická tvorba *feedu* na sociálních
+    sítích pro jednotlivé uživatele.
+  - >-
+    Uveďte alespoň pět faktorů, které mohou být významné při algoritmické tvorbě
+    *feedu* (v kontextu sociálních sítí).
+  - >-
+    Vyhledejte informace o výzkumu, který se zabýval vlivem příspěvků ve feedu
+    Facebooku na emoce uživatelů a provedl jej tým Facebooku v roce 2013, a
+    stručně popište jeho výsledky.
+  - >-
+    Vyhledejte informace o výzkumu, který se zabýval vlivem příspěvků ve feedu
+    Facebooku na emoce uživatelů a provedl jej tým Facebooku v roce 2013, a
+    stručně popište jeho metodologii.
+  - >-
+    Vyhledejte informace o výzkumu, který se zabýval vlivem příspěvků ve feedu
+    Facebooku na emoce uživatelů a provedl jej tým Facebooku v roce 2013, a
+    zamyslete se nad etickou rovinou daného výzkumu a jeho praktickou
+    využitelností.
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď je dobře sestavena a využívá dohledaných zdrojů.
+      - V úkolu je korektně užíván termín *feed*.
+      - V úkolu je korektně užíván termín *algoritmus*.

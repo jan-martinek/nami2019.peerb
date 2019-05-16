@@ -1,0 +1,26 @@
+bloom: understand
+time: 45
+questions:
+  - >-
+    Seznamte se s myšlenkou *wiki* a krátce ji charakterizujte. Následně šířeji
+    popište základní principy *wiki*.
+  - >-
+    Seznamte se s myšlenkou *wiki* a krátce ji charakterizujte. Popište alespoň
+    tři nástroje (aplikace, služby atp.), které je možné využít při tvorbě
+    *wiki*.
+  - >-
+    Seznamte se s myšlenkou *wiki* a krátce ji charakterizujte. Popište, jak
+    pracuje odkazování mezi stránkami *wiki* v nástroji
+    [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki).
+  - >-
+    Seznamte se s myšlenkou *wiki* a krátce ji charakterizujte. Pak se zaměřte
+    na Wikipedii a popište, jak postupují *wikipedisté* pokud vznikne spor o
+    správné znění hesla.
+rubrics:
+  - checklist: ''
+    items:
+      - Charakteristika *wiki* je korektní a kompletní.
+      - >-
+        V úkolu je korektně užíván termín *wiki* (není zaměňován za Wikipedii
+        atp.).
+      - Druhá část zadání je vyčerpávajícím způsobem splněna.

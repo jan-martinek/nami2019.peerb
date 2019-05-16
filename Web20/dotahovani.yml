@@ -1,0 +1,41 @@
+bloom: apply
+time: 1h
+questions: |
+  Zpětné vazby ke konkrétním týmovým projektům najdete na jednom z následujících odkazů:
+
+  > **Pozn.**: Zpětné vazby jsou sepsány v průběhu předposlední lekce — vyčkejte tedy na její skončení, abyste měli zpětnou vazbu k dispozici.
+
+  - [Krisstyynka/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=Krisstyynka___muj-webovy-projekt)
+  - [terezkaprochazek/muj_webovy_projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=terezkaprochazek___muj_webovy_projekt)
+  - [Chymster/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=Chymster___muj-webovy-projekt)
+  - [adelaweidischova/virtualni-realita](http://tmp.jan-martinek.com/nami19/ukoly.php?p=adelaweidischova___virtualni-realita)
+  - [KristHol/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=KristHol___muj-webovy-projekt)
+  - [janest789/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=janest789___muj-webovy-projekt)
+  - [AdamdaVinci/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=AdamdaVinci___muj-webovy-projekt)
+  - [weisova/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=weisova___muj-webovy-projekt)
+  - [terezakorinkova/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=terezakorinkova___muj-webovy-projekt)
+  - [LucieScholze/Hra-o-Tr-ny](http://tmp.jan-martinek.com/nami19/ukoly.php?p=LucieScholze___Hra-o-Tr-ny)
+  - [utkaa/moj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=utkaa___moj-webovy-projekt)
+  - [prcounek420/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=prcounek420___muj-webovy-projekt)
+  - [KamVej/Tajemstvi-kpopu](http://tmp.jan-martinek.com/nami19/ukoly.php?p=KamVej___Tajemstvi-kpopu)
+  - [honeyblah/M-j-webov-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=honeyblah___M-j-webov-projekt)
+  - [474302/PROJEKT](http://tmp.jan-martinek.com/nami19/ukoly.php?p=474302___PROJEKT)
+  - [bouchyman/Pejsci](http://tmp.jan-martinek.com/nami19/ukoly.php?p=bouchyman___Pejsci)
+  - [Kasikova/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=Kasikova___muj-webovy-projekt)
+  - [Kayly-hime/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=Kayly-hime___muj-webovy-projekt)
+  - [zahradnicekr/AlbanieWeb](http://tmp.jan-martinek.com/nami19/ukoly.php?p=zahradnicekr___AlbanieWeb)
+  - [smerdovaveronika/muj-webovy-projekt](http://tmp.jan-martinek.com/nami19/ukoly.php?p=smerdovaveronika___muj-webovy-projekt)
+
+  Projděte si zpětnou vazbu ke svému týmovému projektu a identifikujte jeho silné a slabé stránky na základě zpětné vazby. Vyberte si pak konkrétní zmíněný problém a napravte ho přímo v projektu (domluvte se s ostatními v projektu, abyste neopravovali stejný problém). Výsledný pull request by měl mít rozsah alespoň 30 řádků (přidaných, odebraných či změněných).
+
+  Do odpovědi vepište alespoň tři slabé a tři silné stránky vašeho týmově tvořeného webu
+  a vložte odkaz na přijatý pull request, který jeden z těchto problémů napravuje.
+
+  > **Pozn.:** Pokud výše není odkaz na zpětnou vazbu k vašemu projektu, napište to do odpovědi,
+  proveďte sebeevaluaci a vyhodnoťte slabé a silné stránky sami. Následně jeden z problematických
+  aspektů napravte.
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď obsahuje dobře vybrané slabé a silné stránky, které vychází ze zpětné vazby.
+      - Pull request je vytvořený dle zadání, v potřebném rozsahu a je přijatý.

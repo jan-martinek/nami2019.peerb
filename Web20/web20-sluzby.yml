@@ -1,0 +1,65 @@
+bloom: understand
+time: 30
+params:
+  network:
+    - Google+
+    - Facebook
+    - Twitter
+    - Qzone
+    - Sina Weibo
+    - Instagram
+    - Habbo
+    - VK
+    - Tumblr
+    - LinkedIn
+    - Renren
+    - Bebo
+    - Tagged
+    - Orkut
+    - Netlog
+    - Friendster
+    - hi5
+    - Flixster
+    - MyLife
+    - Classmates.com
+    - Sonico.com
+    - Plaxo
+    - douban
+    - Odnoklassniki
+    - Viadeo
+    - Flickr
+    - WeeWorld
+    - Last.fm
+    - Myspace
+    - MyHeritage
+    - Xanga
+    - DeviantArt
+    - mixi
+    - Cyworld
+    - Gaia Online
+    - Skyrock
+    - Foursquare
+    - Fotolog
+    - We Heart It
+    - StumbleUpon
+    - BlackPlanet
+questions: >
+  Popište službu *%network%* (v minimálním rozsahu 600 znaků).
+
+
+  > **Poznámka:** Jde o jednu ze 40 největších služeb dle počtu registrovaných
+  uživatelů, které obsahují či obsahovaly prvky sociálních sítí.
+rubrics:
+  - checklist: ''
+    items:
+      - Odpověď má rozsah požadovaný v zadání.
+      - >-
+        Popis je výstižný a srozumitelný bez dohledávání informací v dalších
+        zdrojích.
+      - 'Po prozkoumání dalších zdrojů je zřejmé, že je popis správný.'
+      - >-
+        Popis služby je dostatečně konkrétní pro rozhodnutí, zda je daná služba
+        pro vás potenciálně zajímavá.
+  - >-
+    Stručně uhodnoťte, zda je pro vás daná služba zajímavá — či zda ji už
+    používáte. (Uveďte alespoň dva důvody pro/proti.)
